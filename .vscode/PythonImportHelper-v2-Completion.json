@@ -1,0 +1,1643 @@
+[
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "value_of_card",
+        "importPath": "black_jack",
+        "description": "black_jack",
+        "isExtraImport": true,
+        "detail": "black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "higher_card",
+        "importPath": "black_jack",
+        "description": "black_jack",
+        "isExtraImport": true,
+        "detail": "black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "value_of_ace",
+        "importPath": "black_jack",
+        "description": "black_jack",
+        "isExtraImport": true,
+        "detail": "black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "is_blackjack",
+        "importPath": "black_jack",
+        "description": "black_jack",
+        "isExtraImport": true,
+        "detail": "black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "can_split_pairs",
+        "importPath": "black_jack",
+        "description": "black_jack",
+        "isExtraImport": true,
+        "detail": "black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "can_double_down",
+        "importPath": "black_jack",
+        "description": "black_jack",
+        "isExtraImport": true,
+        "detail": "black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "get_rounds",
+        "importPath": "lists",
+        "description": "lists",
+        "isExtraImport": true,
+        "detail": "lists",
+        "documentation": {}
+    },
+    {
+        "label": "concatenate_rounds",
+        "importPath": "lists",
+        "description": "lists",
+        "isExtraImport": true,
+        "detail": "lists",
+        "documentation": {}
+    },
+    {
+        "label": "list_contains_round",
+        "importPath": "lists",
+        "description": "lists",
+        "isExtraImport": true,
+        "detail": "lists",
+        "documentation": {}
+    },
+    {
+        "label": "card_average",
+        "importPath": "lists",
+        "description": "lists",
+        "isExtraImport": true,
+        "detail": "lists",
+        "documentation": {}
+    },
+    {
+        "label": "approx_average_is_average",
+        "importPath": "lists",
+        "description": "lists",
+        "isExtraImport": true,
+        "detail": "lists",
+        "documentation": {}
+    },
+    {
+        "label": "average_even_is_average_odd",
+        "importPath": "lists",
+        "description": "lists",
+        "isExtraImport": true,
+        "detail": "lists",
+        "documentation": {}
+    },
+    {
+        "label": "maybe_double_last",
+        "importPath": "lists",
+        "description": "lists",
+        "isExtraImport": true,
+        "detail": "lists",
+        "documentation": {}
+    },
+    {
+        "label": "deepcopy",
+        "importPath": "copy",
+        "description": "copy",
+        "isExtraImport": true,
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "add_me_to_the_queue",
+        "importPath": "list_methods",
+        "description": "list_methods",
+        "isExtraImport": true,
+        "detail": "list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "find_my_friend",
+        "importPath": "list_methods",
+        "description": "list_methods",
+        "isExtraImport": true,
+        "detail": "list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "add_me_with_my_friends",
+        "importPath": "list_methods",
+        "description": "list_methods",
+        "isExtraImport": true,
+        "detail": "list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "remove_the_mean_person",
+        "importPath": "list_methods",
+        "description": "list_methods",
+        "isExtraImport": true,
+        "detail": "list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "how_many_namefellows",
+        "importPath": "list_methods",
+        "description": "list_methods",
+        "isExtraImport": true,
+        "detail": "list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "remove_the_last_person",
+        "importPath": "list_methods",
+        "description": "list_methods",
+        "isExtraImport": true,
+        "detail": "list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "sorted_names",
+        "importPath": "list_methods",
+        "description": "list_methods",
+        "isExtraImport": true,
+        "detail": "list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "exchange_money",
+        "importPath": "exchange",
+        "description": "exchange",
+        "isExtraImport": true,
+        "detail": "exchange",
+        "documentation": {}
+    },
+    {
+        "label": "get_change",
+        "importPath": "exchange",
+        "description": "exchange",
+        "isExtraImport": true,
+        "detail": "exchange",
+        "documentation": {}
+    },
+    {
+        "label": "get_value_of_bills",
+        "importPath": "exchange",
+        "description": "exchange",
+        "isExtraImport": true,
+        "detail": "exchange",
+        "documentation": {}
+    },
+    {
+        "label": "get_number_of_bills",
+        "importPath": "exchange",
+        "description": "exchange",
+        "isExtraImport": true,
+        "detail": "exchange",
+        "documentation": {}
+    },
+    {
+        "label": "get_leftover_of_bills",
+        "importPath": "exchange",
+        "description": "exchange",
+        "isExtraImport": true,
+        "detail": "exchange",
+        "documentation": {}
+    },
+    {
+        "label": "exchangeable_value",
+        "importPath": "exchange",
+        "description": "exchange",
+        "isExtraImport": true,
+        "detail": "exchange",
+        "documentation": {}
+    },
+    {
+        "label": "eat_ghost",
+        "importPath": "arcade_game",
+        "description": "arcade_game",
+        "isExtraImport": true,
+        "detail": "arcade_game",
+        "documentation": {}
+    },
+    {
+        "label": "score",
+        "importPath": "arcade_game",
+        "description": "arcade_game",
+        "isExtraImport": true,
+        "detail": "arcade_game",
+        "documentation": {}
+    },
+    {
+        "label": "lose",
+        "importPath": "arcade_game",
+        "description": "arcade_game",
+        "isExtraImport": true,
+        "detail": "arcade_game",
+        "documentation": {}
+    },
+    {
+        "label": "win",
+        "importPath": "arcade_game",
+        "description": "arcade_game",
+        "isExtraImport": true,
+        "detail": "arcade_game",
+        "documentation": {}
+    },
+    {
+        "label": "create_inventory",
+        "importPath": "dicts",
+        "description": "dicts",
+        "isExtraImport": true,
+        "detail": "dicts",
+        "documentation": {}
+    },
+    {
+        "label": "add_items",
+        "importPath": "dicts",
+        "description": "dicts",
+        "isExtraImport": true,
+        "detail": "dicts",
+        "documentation": {}
+    },
+    {
+        "label": "decrement_items",
+        "importPath": "dicts",
+        "description": "dicts",
+        "isExtraImport": true,
+        "detail": "dicts",
+        "documentation": {}
+    },
+    {
+        "label": "remove_item",
+        "importPath": "dicts",
+        "description": "dicts",
+        "isExtraImport": true,
+        "detail": "dicts",
+        "documentation": {}
+    },
+    {
+        "label": "list_inventory",
+        "importPath": "dicts",
+        "description": "dicts",
+        "isExtraImport": true,
+        "detail": "dicts",
+        "documentation": {}
+    },
+    {
+        "label": "capitalize_title",
+        "importPath": "string_methods",
+        "description": "string_methods",
+        "isExtraImport": true,
+        "detail": "string_methods",
+        "documentation": {}
+    },
+    {
+        "label": "check_sentence_ending",
+        "importPath": "string_methods",
+        "description": "string_methods",
+        "isExtraImport": true,
+        "detail": "string_methods",
+        "documentation": {}
+    },
+    {
+        "label": "clean_up_spacing",
+        "importPath": "string_methods",
+        "description": "string_methods",
+        "isExtraImport": true,
+        "detail": "string_methods",
+        "documentation": {}
+    },
+    {
+        "label": "replace_word_choice",
+        "importPath": "string_methods",
+        "description": "string_methods",
+        "isExtraImport": true,
+        "detail": "string_methods",
+        "documentation": {}
+    },
+    {
+        "label": "add_prefix_un",
+        "importPath": "strings",
+        "description": "strings",
+        "isExtraImport": true,
+        "detail": "strings",
+        "documentation": {}
+    },
+    {
+        "label": "make_word_groups",
+        "importPath": "strings",
+        "description": "strings",
+        "isExtraImport": true,
+        "detail": "strings",
+        "documentation": {}
+    },
+    {
+        "label": "remove_suffix_ness",
+        "importPath": "strings",
+        "description": "strings",
+        "isExtraImport": true,
+        "detail": "strings",
+        "documentation": {}
+    },
+    {
+        "label": "adjective_to_verb",
+        "importPath": "strings",
+        "description": "strings",
+        "isExtraImport": true,
+        "detail": "strings",
+        "documentation": {}
+    },
+    {
+        "label": "round_scores",
+        "importPath": "loops",
+        "description": "loops",
+        "isExtraImport": true,
+        "detail": "loops",
+        "documentation": {}
+    },
+    {
+        "label": "count_failed_students",
+        "importPath": "loops",
+        "description": "loops",
+        "isExtraImport": true,
+        "detail": "loops",
+        "documentation": {}
+    },
+    {
+        "label": "above_threshold",
+        "importPath": "loops",
+        "description": "loops",
+        "isExtraImport": true,
+        "detail": "loops",
+        "documentation": {}
+    },
+    {
+        "label": "letter_grades",
+        "importPath": "loops",
+        "description": "loops",
+        "isExtraImport": true,
+        "detail": "loops",
+        "documentation": {}
+    },
+    {
+        "label": "student_ranking",
+        "importPath": "loops",
+        "description": "loops",
+        "isExtraImport": true,
+        "detail": "loops",
+        "documentation": {}
+    },
+    {
+        "label": "perfect_score",
+        "importPath": "loops",
+        "description": "loops",
+        "isExtraImport": true,
+        "detail": "loops",
+        "documentation": {}
+    },
+    {
+        "label": "add_items",
+        "importPath": "Exercism.python.inventory-management.dicts",
+        "description": "Exercism.python.inventory-management.dicts",
+        "isExtraImport": true,
+        "detail": "Exercism.python.inventory-management.dicts",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "add_item",
+        "importPath": "dict_methods",
+        "description": "dict_methods",
+        "isExtraImport": true,
+        "detail": "dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "read_notes",
+        "importPath": "dict_methods",
+        "description": "dict_methods",
+        "isExtraImport": true,
+        "detail": "dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "update_recipes",
+        "importPath": "dict_methods",
+        "description": "dict_methods",
+        "isExtraImport": true,
+        "detail": "dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "sort_entries",
+        "importPath": "dict_methods",
+        "description": "dict_methods",
+        "isExtraImport": true,
+        "detail": "dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_store",
+        "importPath": "dict_methods",
+        "description": "dict_methods",
+        "isExtraImport": true,
+        "detail": "dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "update_store_inventory",
+        "importPath": "dict_methods",
+        "description": "dict_methods",
+        "isExtraImport": true,
+        "detail": "dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "add_item_data",
+        "importPath": "dict_methods_test_data",
+        "description": "dict_methods_test_data",
+        "isExtraImport": true,
+        "detail": "dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "read_notes_data",
+        "importPath": "dict_methods_test_data",
+        "description": "dict_methods_test_data",
+        "isExtraImport": true,
+        "detail": "dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "update_recipes_data",
+        "importPath": "dict_methods_test_data",
+        "description": "dict_methods_test_data",
+        "isExtraImport": true,
+        "detail": "dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "sort_entries_data",
+        "importPath": "dict_methods_test_data",
+        "description": "dict_methods_test_data",
+        "isExtraImport": true,
+        "detail": "dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_store_data",
+        "importPath": "dict_methods_test_data",
+        "description": "dict_methods_test_data",
+        "isExtraImport": true,
+        "detail": "dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "update_store_inventory_data",
+        "importPath": "dict_methods_test_data",
+        "description": "dict_methods_test_data",
+        "isExtraImport": true,
+        "detail": "dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "is_criticality_balanced",
+        "importPath": "conditionals",
+        "description": "conditionals",
+        "isExtraImport": true,
+        "detail": "conditionals",
+        "documentation": {}
+    },
+    {
+        "label": "reactor_efficiency",
+        "importPath": "conditionals",
+        "description": "conditionals",
+        "isExtraImport": true,
+        "detail": "conditionals",
+        "documentation": {}
+    },
+    {
+        "label": "fail_safe",
+        "importPath": "conditionals",
+        "description": "conditionals",
+        "isExtraImport": true,
+        "detail": "conditionals",
+        "documentation": {}
+    },
+    {
+        "label": "get_coordinate",
+        "importPath": "tuples",
+        "description": "tuples",
+        "isExtraImport": true,
+        "detail": "tuples",
+        "documentation": {}
+    },
+    {
+        "label": "convert_coordinate",
+        "importPath": "tuples",
+        "description": "tuples",
+        "isExtraImport": true,
+        "detail": "tuples",
+        "documentation": {}
+    },
+    {
+        "label": "compare_records",
+        "importPath": "tuples",
+        "description": "tuples",
+        "isExtraImport": true,
+        "detail": "tuples",
+        "documentation": {}
+    },
+    {
+        "label": "create_record",
+        "importPath": "tuples",
+        "description": "tuples",
+        "isExtraImport": true,
+        "detail": "tuples",
+        "documentation": {}
+    },
+    {
+        "label": "clean_up",
+        "importPath": "tuples",
+        "description": "tuples",
+        "isExtraImport": true,
+        "detail": "tuples",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NamedTuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "urljoin",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "pdfkit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfkit",
+        "description": "pdfkit",
+        "detail": "pdfkit",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "value_of_card",
+        "kind": 2,
+        "importPath": "Exercism.python.black-jack.black_jack",
+        "description": "Exercism.python.black-jack.black_jack",
+        "peekOfCode": "def value_of_card(card):\n    \"\"\"Determine the scoring value of a card.\n    :param card: str - given card.\n    :return: int - value of a given card.  See below for values.\n    1.  'J', 'Q', or 'K' (otherwise known as \"face cards\") = 10\n    2.  'A' (ace card) = 1\n    3.  '2' - '10' = numerical value.\n    \"\"\"\n    card_values = {\n        'J': 10, 'Q': 10, 'K': 10, ",
+        "detail": "Exercism.python.black-jack.black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "higher_card",
+        "kind": 2,
+        "importPath": "Exercism.python.black-jack.black_jack",
+        "description": "Exercism.python.black-jack.black_jack",
+        "peekOfCode": "def higher_card(card_one, card_two):\n    \"\"\"Determine which card has a higher value in the hand.\n    :param card_one: str - first card dealt in hand.\n    :param card_two: str - second card dealt in hand.\n    :return: str or tuple - resulting tuple contains both cards if equal value.\n    1.  'J', 'Q', or 'K' (otherwise known as \"face cards\") = 10\n    2.  'A' (ace card) = 1\n    3.  '2' - '10' = numerical value.\n    \"\"\"\n    if value_of_card(card_one) > value_of_card(card_two):",
+        "detail": "Exercism.python.black-jack.black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "value_of_ace",
+        "kind": 2,
+        "importPath": "Exercism.python.black-jack.black_jack",
+        "description": "Exercism.python.black-jack.black_jack",
+        "peekOfCode": "def value_of_ace(card_one, card_two):\n    \"\"\"Calculate the most advantageous value for the ace card.\n    :param card_one: str - first card dealt.\n    :param card_two: str - second card dealt.\n    :return: int - either 1 or 11 value of the upcoming ace card.\n    1.  'J', 'Q', or 'K' (otherwise known as \"face cards\") = 10\n    2.  'A' (ace card) = 11 (if already in hand)\n    3.  '2' - '10' = numerical value.\n    \"\"\"\n    total = value_of_card(card_one) + value_of_card(card_two)",
+        "detail": "Exercism.python.black-jack.black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "is_blackjack",
+        "kind": 2,
+        "importPath": "Exercism.python.black-jack.black_jack",
+        "description": "Exercism.python.black-jack.black_jack",
+        "peekOfCode": "def is_blackjack(card_one, card_two):\n    \"\"\"Determine if the hand is a 'natural' or 'blackjack'.\n    :param card_one, card_two: str - card dealt. See below for values.\n    :return: bool - is the hand is a blackjack (two cards worth 21).\n    1.  'J', 'Q', or 'K' (otherwise known as \"face cards\") = 10\n    2.  'A' (ace card) = 11 (if already in hand)\n    3.  '2' - '10' = numerical value.\n    \"\"\"\n    is_ace = (\n        card_one == 'A' ",
+        "detail": "Exercism.python.black-jack.black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "can_split_pairs",
+        "kind": 2,
+        "importPath": "Exercism.python.black-jack.black_jack",
+        "description": "Exercism.python.black-jack.black_jack",
+        "peekOfCode": "def can_split_pairs(card_one, card_two):\n    \"\"\"Determine if a player can split their hand into two hands.\n    :param card_one, card_two: str - cards dealt.\n    :return: bool - can the hand be split into two pairs? (i.e. cards are of the same value).\n    \"\"\"\n    if value_of_card(card_one) == value_of_card(card_two):\n        return True\n    return False\ndef can_double_down(card_one, card_two):\n    \"\"\"Determine if a blackjack player can place a double down bet.",
+        "detail": "Exercism.python.black-jack.black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "can_double_down",
+        "kind": 2,
+        "importPath": "Exercism.python.black-jack.black_jack",
+        "description": "Exercism.python.black-jack.black_jack",
+        "peekOfCode": "def can_double_down(card_one, card_two):\n    \"\"\"Determine if a blackjack player can place a double down bet.\n    :param card_one, card_two: str - first and second cards in hand.\n    :return: bool - can the hand can be doubled down? (i.e. totals 9, 10 or 11 points).\n    \"\"\"\n    total = value_of_card(card_one) + value_of_card(card_two)\n    if total == 9 or total == 10 or total == 11:\n        return True\n    return False",
+        "detail": "Exercism.python.black-jack.black_jack",
+        "documentation": {}
+    },
+    {
+        "label": "BlackJackTest",
+        "kind": 6,
+        "importPath": "Exercism.python.black-jack.black_jack_test",
+        "description": "Exercism.python.black-jack.black_jack_test",
+        "peekOfCode": "class BlackJackTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_value_of_card(self):\n        test_data = [('2', 2), ('5', 5), ('8', 8),\n                     ('A', 1), ('10', 10), ('J', 10),\n                     ('Q', 10), ('K', 10)]\n        for variant, (card, expected) in enumerate(test_data, 1):\n            with self.subTest(f'variation #{variant}', card=card, expected=expected):\n                actual_result = value_of_card(card)\n                error_msg = (f'Called value_of_card({card}). '",
+        "detail": "Exercism.python.black-jack.black_jack_test",
+        "documentation": {}
+    },
+    {
+        "label": "get_rounds",
+        "kind": 2,
+        "importPath": "Exercism.python.card-games.lists",
+        "description": "Exercism.python.card-games.lists",
+        "peekOfCode": "def get_rounds(number):\n    \"\"\"Create a list containing the current and next two round numbers.\n    :param number: int - current round number.\n    :return: list - current round and the two that follow.\n    \"\"\"\n    return [number, number + 1, number + 2]\ndef concatenate_rounds(rounds_1, rounds_2):\n    \"\"\"Concatenate two lists of round numbers.\n    :param rounds_1: list - first rounds played.\n    :param rounds_2: list - second set of rounds played.",
+        "detail": "Exercism.python.card-games.lists",
+        "documentation": {}
+    },
+    {
+        "label": "concatenate_rounds",
+        "kind": 2,
+        "importPath": "Exercism.python.card-games.lists",
+        "description": "Exercism.python.card-games.lists",
+        "peekOfCode": "def concatenate_rounds(rounds_1, rounds_2):\n    \"\"\"Concatenate two lists of round numbers.\n    :param rounds_1: list - first rounds played.\n    :param rounds_2: list - second set of rounds played.\n    :return: list - all rounds played.\n    \"\"\"\n    return rounds_1 + rounds_2\ndef list_contains_round(rounds, number):\n    \"\"\"Check if the list of rounds contains the specified number.\n    :param rounds: list - rounds played.",
+        "detail": "Exercism.python.card-games.lists",
+        "documentation": {}
+    },
+    {
+        "label": "list_contains_round",
+        "kind": 2,
+        "importPath": "Exercism.python.card-games.lists",
+        "description": "Exercism.python.card-games.lists",
+        "peekOfCode": "def list_contains_round(rounds, number):\n    \"\"\"Check if the list of rounds contains the specified number.\n    :param rounds: list - rounds played.\n    :param number: int - round number.\n    :return: bool - was the round played?\n    \"\"\"\n    return number in rounds\ndef card_average(hand):\n    \"\"\"Calculate and returns the average card value from the list.\n    :param hand: list - cards in hand.",
+        "detail": "Exercism.python.card-games.lists",
+        "documentation": {}
+    },
+    {
+        "label": "card_average",
+        "kind": 2,
+        "importPath": "Exercism.python.card-games.lists",
+        "description": "Exercism.python.card-games.lists",
+        "peekOfCode": "def card_average(hand):\n    \"\"\"Calculate and returns the average card value from the list.\n    :param hand: list - cards in hand.\n    :return: float - average value of the cards in the hand.\n    \"\"\"\n# Elyse wants to try out a new game called Black Joe. It's similar to Black Jack - where your goal is\n# to have the cards in your hand add up to a target value - but in Black Joe the goal is to get the average \n# of the card values to be 7. The average can be found by summing up all the card values and then dividing \n# that sum by the number of cards in the hand.\n# Implement a function card_average(<hand>) that will return the average value of a hand of Black Joe.",
+        "detail": "Exercism.python.card-games.lists",
+        "documentation": {}
+    },
+    {
+        "label": "approx_average_is_average",
+        "kind": 2,
+        "importPath": "Exercism.python.card-games.lists",
+        "description": "Exercism.python.card-games.lists",
+        "peekOfCode": "def approx_average_is_average(hand):\n    \"\"\"Return if either of two approximate averages equals the actual average.\n    :param hand: list - cards in hand.\n    :return: bool - does an approximate average equal the true average?\n    \"\"\"\n    true_average = sum(hand) / len(hand)\n    # Calculate average of first and last card\n    sliced_average = (hand[0] + hand[-1]) / 2\n    # Get median (middle card)\n    median_index = len(hand) // 2",
+        "detail": "Exercism.python.card-games.lists",
+        "documentation": {}
+    },
+    {
+        "label": "average_even_is_average_odd",
+        "kind": 2,
+        "importPath": "Exercism.python.card-games.lists",
+        "description": "Exercism.python.card-games.lists",
+        "peekOfCode": "def average_even_is_average_odd(hand):\n    \"\"\"Return if the (average of even indexed card values) == (average of odd indexed card values).\n    :param hand: list - cards in hand.\n    :return: bool - are even and odd averages equal?\n    \"\"\"\n    # Intrigued by the results of her averaging experiment, Elyse is wondering if taking the average of the cards \n    # at the even positions versus the average of the cards at the odd positions would give the same results. \n    # Time for another test function!\n    # Implement a function average_even_is_average_odd(<hand>) that returns a Boolean indicating if the average \n    # of the cards at even indexes is the same as the average of the cards at odd indexes.",
+        "detail": "Exercism.python.card-games.lists",
+        "documentation": {}
+    },
+    {
+        "label": "maybe_double_last",
+        "kind": 2,
+        "importPath": "Exercism.python.card-games.lists",
+        "description": "Exercism.python.card-games.lists",
+        "peekOfCode": "def maybe_double_last(hand):\n    \"\"\"Multiply a Jack card value in the last index position by 2.\n    :param hand: list - cards in hand.\n    :return: list - hand with Jacks (if present) value doubled.\n    \"\"\"\n    # Every 11th hand in Black Joe is a bonus hand with a bonus rule: if the last card you draw is a Jack, you double its value.\n    # Implement a function maybe_double_last(<hand>) that takes a hand and checks if the last card is a Jack (11). \n    # If the last card is a Jack (11), double its value before returning the hand.\n    # >>> hand = [5, 9, 11]\n    # >>> maybe_double_last(hand)",
+        "detail": "Exercism.python.card-games.lists",
+        "documentation": {}
+    },
+    {
+        "label": "CardGamesTest",
+        "kind": 6,
+        "importPath": "Exercism.python.card-games.lists_test",
+        "description": "Exercism.python.card-games.lists_test",
+        "peekOfCode": "class CardGamesTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_get_rounds(self):\n        input_data = [0, 1, 10, 27, 99, 666]\n        result_data = [[0, 1, 2], [1, 2, 3],\n                       [10, 11, 12], [27, 28, 29],\n                       [99, 100, 101], [666, 667, 668]]\n        for variant, (number, expected) in enumerate(zip(input_data, result_data), start=1):\n            with self.subTest(f'variation #{variant}', number=number, expected=expected):\n                actual_result = get_rounds(number)",
+        "detail": "Exercism.python.card-games.lists_test",
+        "documentation": {}
+    },
+    {
+        "label": "add_me_to_the_queue",
+        "kind": 2,
+        "importPath": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "description": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "peekOfCode": "def add_me_to_the_queue(express_queue, normal_queue, ticket_type, person_name):\n    \"\"\"Add a person to the 'express' or 'normal' queue depending on the ticket number.\n    :param express_queue: list - names in the Fast-track queue.\n    :param normal_queue: list - names in the normal queue.\n    :param ticket_type: int - type of ticket. 1 = express, 0 = normal.\n    :param person_name: str - name of person to add to a queue.\n    :return: list - the (updated) queue the name was added to.\n    \"\"\"\n    # Define the add_me_to_the_queue() function that takes 4 parameters <express_queue>, <normal_queue>, <ticket_type>, \n    # <person_name> and returns the appropriate queue updated with the person's name.",
+        "detail": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "find_my_friend",
+        "kind": 2,
+        "importPath": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "description": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "peekOfCode": "def find_my_friend(queue, friend_name):\n    \"\"\"Search the queue for a name and return their queue position (index).\n    :param queue: list - names in the queue.\n    :param friend_name: str - name of friend to find.\n    :return: int - index at which the friends name was found.\n    \"\"\"\n# One person arrived late at the park but wants to join the queue where their friends are waiting. \n# But they have no idea where their friends are standing and there isn't any phone reception to call them.\n# Define the find_my_friend() function that takes 2 parameters queue and friend_name and returns the position in the queue of the person's name.\n# <queue> is the list of people standing in the queue.",
+        "detail": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "add_me_with_my_friends",
+        "kind": 2,
+        "importPath": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "description": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "peekOfCode": "def add_me_with_my_friends(queue, index, person_name):\n    \"\"\"Insert the late arrival's name at a specific index of the queue.\n    :param queue: list - names in the queue.\n    :param index: int - the index at which to add the new name.\n    :param person_name: str - the name to add.\n    :return: list - queue updated with new name.\n    \"\"\"\n    # Now that their friends have been found (in task #2 above), the late arriver would like to join them at their place in the queue. \n    # Define the add_me_with_my_friends() function that takes 3 parameters queue, index, and person_name.\n    # <queue> is the list of people standing in the queue.",
+        "detail": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "remove_the_mean_person",
+        "kind": 2,
+        "importPath": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "description": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "peekOfCode": "def remove_the_mean_person(queue, person_name):\n    \"\"\"Remove the mean person from the queue by the provided name.\n    :param queue: list - names in the queue.\n    :param person_name: str - name of mean person.\n    :return: list - queue update with the mean persons name removed.\n    \"\"\"\n    # You just heard from the queue that there is a really mean person shoving, shouting, and making trouble. You need to throw that miscreant out for bad behavior!\n    # Define the remove_the_mean_person() function that takes 2 parameters queue and person_name.\n    # <queue> is the list of people standing in the queue.\n    # <person_name> is the name of the person that needs to be kicked out.",
+        "detail": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "how_many_namefellows",
+        "kind": 2,
+        "importPath": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "description": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "peekOfCode": "def how_many_namefellows(queue, person_name):\n    \"\"\"Count how many times the provided name appears in the queue.\n    :param queue: list - names in the queue.\n    :param person_name: str - name you wish to count or track.\n    :return: int - the number of times the name appears in the queue.\n    \"\"\"\n# You may not have seen two unrelated people who look exactly the same, but you have definitely seen unrelated people with the exact same name (namefellows)!\n# Today, it looks like there are a lot of them in attendance. You want to know how many times a particular name occurs in the queue.\n# Define the how_many_namefellows() function that takes 2 parameters queue and person_name.\n# <queue> is the list of people standing in the queue.",
+        "detail": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "remove_the_last_person",
+        "kind": 2,
+        "importPath": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "description": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "peekOfCode": "def remove_the_last_person(queue):\n    \"\"\"Remove the person in the last index from the queue and return their name.\n    :param queue: list - names in the queue.\n    :return: str - name that has been removed from the end of the queue.\n    \"\"\"\n# Sadly, it's overcrowded at the park today and you need to remove the last person in the normal line (you will give them a voucher to come back in the fast-track on another day).\n# You will have to define the function remove_the_last_person() that takes 1 parameter queue, which is the list of people standing in the queue.\n# You should update the list and also return the name of the person who was removed, so you can write them a voucher.\n# >>> remove_the_last_person(queue=[\"Natasha\", \"Steve\", \"Eltran\", \"Natasha\", \"Rocket\"])\n# ...",
+        "detail": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "sorted_names",
+        "kind": 2,
+        "importPath": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "description": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "peekOfCode": "def sorted_names(queue):\n    \"\"\"Sort the names in the queue in alphabetical order and return the result.\n    :param queue: list - names in the queue.\n    :return: list - copy of the queue in alphabetical order.\n    \"\"\"\n    original = queue.copy()\n    return sorted(queue)",
+        "detail": "Exercism.python.chaitanas-colossal-coaster.list_methods",
+        "documentation": {}
+    },
+    {
+        "label": "ListMethodsTest",
+        "kind": 6,
+        "importPath": "Exercism.python.chaitanas-colossal-coaster.list_methods_test",
+        "description": "Exercism.python.chaitanas-colossal-coaster.list_methods_test",
+        "peekOfCode": "class ListMethodsTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_add_me_to_the_queue(self):\n        test_data = [\n        ((['Tony', 'Bruce'], ['RobotGuy', 'WW'], 0, 'HawkEye'), ['RobotGuy', 'WW', 'HawkEye']),\n        ((['Tony', 'Bruce'], ['RobotGuy', 'WW'], 1, 'RichieRich'), ['Tony', 'Bruce', 'RichieRich']),\n        ((['Agatha', 'Pepper', 'Valkyrie'], ['Drax', 'Nebula'], 1, 'Okoye'), ['Agatha', 'Pepper', 'Valkyrie', 'Okoye']),\n        ((['Agatha', 'Pepper', 'Valkyrie'], ['Drax', 'Nebula'], 0, 'Gamora'), ['Drax', 'Nebula', 'Gamora']),\n        ]\n        for variant, (params, expected) in enumerate(test_data, start=1):",
+        "detail": "Exercism.python.chaitanas-colossal-coaster.list_methods_test",
+        "documentation": {}
+    },
+    {
+        "label": "exchange_money",
+        "kind": 2,
+        "importPath": "Exercism.python.currency-exchange.exchange",
+        "description": "Exercism.python.currency-exchange.exchange",
+        "peekOfCode": "def exchange_money(budget, exchange_rate):\n    \"\"\"\n    :param budget: float - amount of money you are planning to exchange.\n    :param exchange_rate: float - unit value of the foreign currency.\n    :return: float - exchanged value of the foreign currency you can receive.\n    \"\"\"\n    return budget / exchange_rate\ndef get_change(budget, exchanging_value):\n    \"\"\"\n    :param budget: float - amount of money you own.",
+        "detail": "Exercism.python.currency-exchange.exchange",
+        "documentation": {}
+    },
+    {
+        "label": "get_change",
+        "kind": 2,
+        "importPath": "Exercism.python.currency-exchange.exchange",
+        "description": "Exercism.python.currency-exchange.exchange",
+        "peekOfCode": "def get_change(budget, exchanging_value):\n    \"\"\"\n    :param budget: float - amount of money you own.\n    :param exchanging_value: float - amount of your money you want to exchange now.\n    :return: float - amount left of your starting currency after exchanging.\n    \"\"\"\n    return budget - exchanging_value\ndef get_value_of_bills(denomination, number_of_bills):\n    \"\"\"\n    :param denomination: int - the value of a bill.",
+        "detail": "Exercism.python.currency-exchange.exchange",
+        "documentation": {}
+    },
+    {
+        "label": "get_value_of_bills",
+        "kind": 2,
+        "importPath": "Exercism.python.currency-exchange.exchange",
+        "description": "Exercism.python.currency-exchange.exchange",
+        "peekOfCode": "def get_value_of_bills(denomination, number_of_bills):\n    \"\"\"\n    :param denomination: int - the value of a bill.\n    :param number_of_bills: int - total number of bills.\n    :return: int - calculated value of the bills.\n    \"\"\"\n    return denomination * number_of_bills\ndef get_number_of_bills(amount, denomination):\n    \"\"\"\n    :param amount: float - the total starting value.",
+        "detail": "Exercism.python.currency-exchange.exchange",
+        "documentation": {}
+    },
+    {
+        "label": "get_number_of_bills",
+        "kind": 2,
+        "importPath": "Exercism.python.currency-exchange.exchange",
+        "description": "Exercism.python.currency-exchange.exchange",
+        "peekOfCode": "def get_number_of_bills(amount, denomination):\n    \"\"\"\n    :param amount: float - the total starting value.\n    :param denomination: int - the value of a single bill.\n    :return: int - number of bills that can be obtained from the amount.\n    \"\"\"\n    return int(amount // denomination)\ndef get_leftover_of_bills(amount, denomination):\n    \"\"\"\n    :param amount: float - the total starting value.",
+        "detail": "Exercism.python.currency-exchange.exchange",
+        "documentation": {}
+    },
+    {
+        "label": "get_leftover_of_bills",
+        "kind": 2,
+        "importPath": "Exercism.python.currency-exchange.exchange",
+        "description": "Exercism.python.currency-exchange.exchange",
+        "peekOfCode": "def get_leftover_of_bills(amount, denomination):\n    \"\"\"\n    :param amount: float - the total starting value.\n    :param denomination: int - the value of a single bill.\n    :return: float - the amount that is \"leftover\", given the current denomination.\n    \"\"\"\n    return amount % denomination\ndef exchangeable_value(budget, exchange_rate, spread, denomination):\n    \"\"\"Calculate maximum exchangeable value considering spread and denomination.\n    :param budget: float - amount in foreign currency to exchange",
+        "detail": "Exercism.python.currency-exchange.exchange",
+        "documentation": {}
+    },
+    {
+        "label": "exchangeable_value",
+        "kind": 2,
+        "importPath": "Exercism.python.currency-exchange.exchange",
+        "description": "Exercism.python.currency-exchange.exchange",
+        "peekOfCode": "def exchangeable_value(budget, exchange_rate, spread, denomination):\n    \"\"\"Calculate maximum exchangeable value considering spread and denomination.\n    :param budget: float - amount in foreign currency to exchange\n    :param exchange_rate: float - local currency per foreign unit (e.g., USD per EUR)\n    :param spread: int - percentage fee\n    :param denomination: int - bill size in local currency\n    :return: int - maximum whole bills obtainable\n    \"\"\"\n    adjusted_rate = exchange_rate * (1 + spread/100)\n    foreign_amount = budget / adjusted_rate",
+        "detail": "Exercism.python.currency-exchange.exchange",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyExchangeTest",
+        "kind": 6,
+        "importPath": "Exercism.python.currency-exchange.exchange_test",
+        "description": "Exercism.python.currency-exchange.exchange_test",
+        "peekOfCode": "class CurrencyExchangeTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_exchange_money(self):\n        test_data = [(100000, 0.8), (700000, 10.0)]\n        result_data = [125000, 70000]\n        for variant, (params, expected) in enumerate(zip(test_data, result_data), start=1):\n            budget, exchange_rate = params\n            with self.subTest(f\"variation #{variant}\",\n                              budget=budget,\n                              exchange_rate=exchange_rate,",
+        "detail": "Exercism.python.currency-exchange.exchange_test",
+        "documentation": {}
+    },
+    {
+        "label": "eat_ghost",
+        "kind": 2,
+        "importPath": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "description": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "peekOfCode": "def eat_ghost(power_pellet_active, touching_ghost):\n    \"\"\"Verify if Pac-Man can eat a ghost when empowered by a power pellet.\n    :param power_pellet_active: bool - is the power pellet active?\n    :param touching_ghost: bool - is Pac-Man touching a ghost?\n    :return: bool - can ghost be eaten?\n    \"\"\"\n    return power_pellet_active and touching_ghost\ndef score(touching_power_pellet, touching_dot):\n    \"\"\"Check if Pac-Man has scored by eating a power pellet or dot.\n    :param touching_power_pellet: bool - touching a power pellet?",
+        "detail": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "documentation": {}
+    },
+    {
+        "label": "score",
+        "kind": 2,
+        "importPath": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "description": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "peekOfCode": "def score(touching_power_pellet, touching_dot):\n    \"\"\"Check if Pac-Man has scored by eating a power pellet or dot.\n    :param touching_power_pellet: bool - touching a power pellet?\n    :param touching_dot: bool - touching a dot?\n    :return: bool - has the player scored?\n    \"\"\"\n    return touching_power_pellet or touching_dot\ndef lose(power_pellet_active, touching_ghost):\n    \"\"\"End game when Pac-Man touches ghost without power pellet.\n    :param power_pellet_active: bool - is power pellet active?",
+        "detail": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "documentation": {}
+    },
+    {
+        "label": "lose",
+        "kind": 2,
+        "importPath": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "description": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "peekOfCode": "def lose(power_pellet_active, touching_ghost):\n    \"\"\"End game when Pac-Man touches ghost without power pellet.\n    :param power_pellet_active: bool - is power pellet active?\n    :param touching_ghost: bool - is Pac-Man touching ghost?\n    :return: bool - has player lost?\n    \"\"\"\n    return not power_pellet_active and touching_ghost\ndef win(has_eaten_all_dots, power_pellet_active, touching_ghost):\n    \"\"\"Trigger victory when all dots are eaten and ghosts are avoided.\n    :param has_eaten_all_dots: bool - have all dots been eaten?",
+        "detail": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "documentation": {}
+    },
+    {
+        "label": "win",
+        "kind": 2,
+        "importPath": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "description": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "peekOfCode": "def win(has_eaten_all_dots, power_pellet_active, touching_ghost):\n    \"\"\"Trigger victory when all dots are eaten and ghosts are avoided.\n    :param has_eaten_all_dots: bool - have all dots been eaten?\n    :param power_pellet_active: bool - is power pellet active?\n    :param touching_ghost: bool - is Pac-Man touching ghost?\n    :return: bool - has player won?\n    \"\"\"\n    return (has_eaten_all_dots \n            and not (not power_pellet_active and touching_ghost))",
+        "detail": "Exercism.python.ghost-gobble-arcade-game.arcade_game",
+        "documentation": {}
+    },
+    {
+        "label": "GhostGobbleGameTest",
+        "kind": 6,
+        "importPath": "Exercism.python.ghost-gobble-arcade-game.arcade_game_test",
+        "description": "Exercism.python.ghost-gobble-arcade-game.arcade_game_test",
+        "peekOfCode": "class GhostGobbleGameTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_ghost_gets_eaten(self):\n        actual_result = eat_ghost(True, True)\n        error_message = ('Called eat_ghost(True, True).'\n                        f'The function returned {actual_result}, but the '\n                        f'tests expected that the ghost gets eaten (True).')\n        self.assertIs(actual_result, True, msg=error_message)\n    @pytest.mark.task(taskno=1)\n    def test_ghost_does_not_get_eaten_because_no_power_pellet_active(self):",
+        "detail": "Exercism.python.ghost-gobble-arcade-game.arcade_game_test",
+        "documentation": {}
+    },
+    {
+        "label": "bake_time_remaining",
+        "kind": 2,
+        "importPath": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "description": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "peekOfCode": "def bake_time_remaining(elapsed_bake_time):\n    \"\"\"Calculate the bake time remaining.\n    :param elapsed_bake_time: int - baking time already elapsed.\n    :return: int - remaining bake time (in minutes) derived from 'EXPECTED_BAKE_TIME'.\n    Function that takes the actual minutes the lasagna has been in the oven as\n    an argument and returns how many minutes the lasagna still needs to bake\n    based on the `EXPECTED_BAKE_TIME`.\n    \"\"\"\n    return EXPECTED_BAKE_TIME - elapsed_bake_time \ndef preparation_time_in_minutes(number_of_layers):",
+        "detail": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "documentation": {}
+    },
+    {
+        "label": "preparation_time_in_minutes",
+        "kind": 2,
+        "importPath": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "description": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "peekOfCode": "def preparation_time_in_minutes(number_of_layers):\n    \"\"\"Calculate the preparation time in minutes.\n    :param number_of_layers: int - the number of layers in the lasagna.\n    :return: int - total preparation time (in minutes) for the specified number of layers.\n    This function takes an integer representing the number of lasagna layers and\n    calculates the total preparation time based on the TIME_PER_LAYER constant.\n    \"\"\"\n    return number_of_layers * TIME_PER_LAYER\ndef elapsed_time_in_minutes(number_of_layers, elapsed_bake_time):\n    \"\"\"Calculate the elapsed cooking time.",
+        "detail": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "documentation": {}
+    },
+    {
+        "label": "elapsed_time_in_minutes",
+        "kind": 2,
+        "importPath": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "description": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "peekOfCode": "def elapsed_time_in_minutes(number_of_layers, elapsed_bake_time):\n    \"\"\"Calculate the elapsed cooking time.\n    :param number_of_layers: int - the number of layers in the lasagna.\n    :param elapsed_bake_time: int - elapsed cooking time.\n    :return: int - total time elapsed (in minutes) preparing and cooking.\n    This function takes two integers representing the number of lasagna layers and the\n    time already spent baking and calculates the total elapsed minutes spent cooking the\n    lasagna.\n    \"\"\"\n    return preparation_time_in_minutes(number_of_layers) + elapsed_bake_time",
+        "detail": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "documentation": {}
+    },
+    {
+        "label": "EXPECTED_BAKE_TIME",
+        "kind": 5,
+        "importPath": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "description": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "peekOfCode": "EXPECTED_BAKE_TIME = 40\nPREPARATION_TIME = 60\nTIME_PER_LAYER = 2\ndef bake_time_remaining(elapsed_bake_time):\n    \"\"\"Calculate the bake time remaining.\n    :param elapsed_bake_time: int - baking time already elapsed.\n    :return: int - remaining bake time (in minutes) derived from 'EXPECTED_BAKE_TIME'.\n    Function that takes the actual minutes the lasagna has been in the oven as\n    an argument and returns how many minutes the lasagna still needs to bake\n    based on the `EXPECTED_BAKE_TIME`.",
+        "detail": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "documentation": {}
+    },
+    {
+        "label": "PREPARATION_TIME",
+        "kind": 5,
+        "importPath": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "description": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "peekOfCode": "PREPARATION_TIME = 60\nTIME_PER_LAYER = 2\ndef bake_time_remaining(elapsed_bake_time):\n    \"\"\"Calculate the bake time remaining.\n    :param elapsed_bake_time: int - baking time already elapsed.\n    :return: int - remaining bake time (in minutes) derived from 'EXPECTED_BAKE_TIME'.\n    Function that takes the actual minutes the lasagna has been in the oven as\n    an argument and returns how many minutes the lasagna still needs to bake\n    based on the `EXPECTED_BAKE_TIME`.\n    \"\"\"",
+        "detail": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_PER_LAYER",
+        "kind": 5,
+        "importPath": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "description": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "peekOfCode": "TIME_PER_LAYER = 2\ndef bake_time_remaining(elapsed_bake_time):\n    \"\"\"Calculate the bake time remaining.\n    :param elapsed_bake_time: int - baking time already elapsed.\n    :return: int - remaining bake time (in minutes) derived from 'EXPECTED_BAKE_TIME'.\n    Function that takes the actual minutes the lasagna has been in the oven as\n    an argument and returns how many minutes the lasagna still needs to bake\n    based on the `EXPECTED_BAKE_TIME`.\n    \"\"\"\n    return EXPECTED_BAKE_TIME - elapsed_bake_time ",
+        "detail": "Exercism.python.guidos-gorgeous-lasagna.lasagna",
+        "documentation": {}
+    },
+    {
+        "label": "LasagnaTest",
+        "kind": 6,
+        "importPath": "Exercism.python.guidos-gorgeous-lasagna.lasagna_test",
+        "description": "Exercism.python.guidos-gorgeous-lasagna.lasagna_test",
+        "peekOfCode": "class LasagnaTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_EXPECTED_BAKE_TIME(self):\n        failure_msg = 'Expected a constant of EXPECTED_BAKE_TIME with a value of 40.'\n        self.assertEqual(EXPECTED_BAKE_TIME, 40, msg=failure_msg)\n    @pytest.mark.task(taskno=2)\n    def test_bake_time_remaining(self):\n        input_data = [1, 2, 5, 10, 15, 23, 33, 39]\n        result_data = [39, 38, 35, 30, 25, 17, 7, 1]\n        for variant, (time, expected) in enumerate(zip(input_data, result_data), start=1):",
+        "detail": "Exercism.python.guidos-gorgeous-lasagna.lasagna_test",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "Exercism.python.hello-world.hello_world",
+        "description": "Exercism.python.hello-world.hello_world",
+        "peekOfCode": "def hello():\n    return 'Hello, World!'",
+        "detail": "Exercism.python.hello-world.hello_world",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorldTest",
+        "kind": 6,
+        "importPath": "Exercism.python.hello-world.hello_world_test",
+        "description": "Exercism.python.hello-world.hello_world_test",
+        "peekOfCode": "class HelloWorldTest(unittest.TestCase):\n    def test_say_hi(self):\n        msg = \"\\n\\nThis test expects a return of the string 'Hello, World!' \\nDid you use print('Hello, World!') by mistake?\"\n        self.assertEqual(hello(), \"Hello, World!\", msg=msg)",
+        "detail": "Exercism.python.hello-world.hello_world_test",
+        "documentation": {}
+    },
+    {
+        "label": "create_inventory",
+        "kind": 2,
+        "importPath": "Exercism.python.inventory-management.dicts",
+        "description": "Exercism.python.inventory-management.dicts",
+        "peekOfCode": "def create_inventory(items):\n    \"\"\"Create a dict that tracks the amount (count) of each element on the `items` list.\n    :param items: list - list of items to create an inventory from.\n    :return: dict - the inventory dictionary.\n    \"\"\"\n# Implement the create_inventory(<input list>) function that creates an \"inventory\" from an input list of items. \n# It should return a dict containing each item name paired with their respective quantity.\n# >>> create_inventory([\"coal\", \"wood\", \"wood\", \"diamond\", \"diamond\", \"diamond\"])\n# {\"coal\":1, \"wood\":2, \"diamond\":3}\n    inventory = {}",
+        "detail": "Exercism.python.inventory-management.dicts",
+        "documentation": {}
+    },
+    {
+        "label": "add_items",
+        "kind": 2,
+        "importPath": "Exercism.python.inventory-management.dicts",
+        "description": "Exercism.python.inventory-management.dicts",
+        "peekOfCode": "def add_items(inventory, items):\n    \"\"\"Add or increment items in inventory using elements from the items `list`.\n    :param inventory: dict - dictionary of existing inventory.\n    :param items: list - list of items to update the inventory with.\n    :return: dict - the inventory updated with the new items.\n    \"\"\"\n# Implement the add_items(<inventory dict>, <item list>) function that adds a list of items to the passed-in inventory:\n# >>> add_items({\"coal\":1}, [\"wood\", \"iron\", \"coal\", \"wood\"])\n# {\"coal\":2, \"wood\":2, \"iron\":1}\n    for i in items:",
+        "detail": "Exercism.python.inventory-management.dicts",
+        "documentation": {}
+    },
+    {
+        "label": "decrement_items",
+        "kind": 2,
+        "importPath": "Exercism.python.inventory-management.dicts",
+        "description": "Exercism.python.inventory-management.dicts",
+        "peekOfCode": "def decrement_items(inventory, items):\n    \"\"\"Decrement items in inventory using elements from the `items` list.\n    :param inventory: dict - inventory dictionary.\n    :param items: list - list of items to decrement from the inventory.\n    :return: dict - updated inventory with items decremented.\n    \"\"\"\n# Implement the decrement_items(<inventory dict>, <items list>) function that takes a list of items. \n# Your function should remove 1 from an item count for each time that item appears on the list:\n# >>> decrement_items({\"coal\":3, \"diamond\":1, \"iron\":5}, [\"diamond\", \"coal\", \"iron\", \"iron\"])\n# {\"coal\":2, \"diamond\":0, \"iron\":3}",
+        "detail": "Exercism.python.inventory-management.dicts",
+        "documentation": {}
+    },
+    {
+        "label": "remove_item",
+        "kind": 2,
+        "importPath": "Exercism.python.inventory-management.dicts",
+        "description": "Exercism.python.inventory-management.dicts",
+        "peekOfCode": "def remove_item(inventory, item):\n    \"\"\"Remove item from inventory if it matches `item` string.\n    :param inventory: dict - inventory dictionary.\n    :param item: str - item to remove from the inventory.\n    :return: dict - updated inventory with item removed. Current inventory if item does not match.\n    \"\"\"\n# Implement the remove_item(<inventory dict>, <item>) function that removes an item and its count entirely from an inventory:\n# >>> remove_item({\"coal\":2, \"wood\":1, \"diamond\":2}, \"coal\")\n# {\"wood\":1, \"diamond\":2}\n# If the item is not found in the inventory, the function should return the original inventory unchanged.",
+        "detail": "Exercism.python.inventory-management.dicts",
+        "documentation": {}
+    },
+    {
+        "label": "list_inventory",
+        "kind": 2,
+        "importPath": "Exercism.python.inventory-management.dicts",
+        "description": "Exercism.python.inventory-management.dicts",
+        "peekOfCode": "def list_inventory(inventory):\n    \"\"\"Create a list containing only available (item_name, item_count > 0) pairs in inventory.\n    :param inventory: dict - an inventory dictionary.\n    :return: list of tuples - list of key, value pairs from the inventory dictionary.\n    \"\"\"\n    result = []\n    for item, count in inventory.items():\n        if count > 0:\n            result.append((item, count))\n    return result",
+        "detail": "Exercism.python.inventory-management.dicts",
+        "documentation": {}
+    },
+    {
+        "label": "InventoryTest",
+        "kind": 6,
+        "importPath": "Exercism.python.inventory-management.dicts_test",
+        "description": "Exercism.python.inventory-management.dicts_test",
+        "peekOfCode": "class InventoryTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_create_inventory(self):\n        actual_result = create_inventory([\"wood\", \"iron\", \"iron\", \"diamond\", \"diamond\"])\n        expected = {\"wood\": 1, \"iron\": 2, \"diamond\": 2}\n        error_message = ('Called create_inventory([\"wood\", \"iron\", \"iron\", \"diamond\", \"diamond\"]). '\n                         f'The function returned {actual_result}, but the tests expected {expected}.')\n        self.assertEqual(actual_result, expected, msg=error_message)\n    @pytest.mark.task(taskno=2)\n    def test_add_one_item(self):",
+        "detail": "Exercism.python.inventory-management.dicts_test",
+        "documentation": {}
+    },
+    {
+        "label": "capitalize_title",
+        "kind": 2,
+        "importPath": "Exercism.python.little-sisters-essay.string_methods",
+        "description": "Exercism.python.little-sisters-essay.string_methods",
+        "peekOfCode": "def capitalize_title(title):\n    \"\"\"Convert the first letter of each word in the title to uppercase if needed.\n    :param title: str - title string that needs title casing.\n    :return: str - title string in title case (first letters capitalized).\n    \"\"\"\n    return title.title()\ndef check_sentence_ending(sentence):\n    \"\"\"Check the ending of the sentence to verify that a period is present.\n    :param sentence: str - a sentence to check.\n    :return: bool - return True if punctuated correctly with period, False otherwise.",
+        "detail": "Exercism.python.little-sisters-essay.string_methods",
+        "documentation": {}
+    },
+    {
+        "label": "check_sentence_ending",
+        "kind": 2,
+        "importPath": "Exercism.python.little-sisters-essay.string_methods",
+        "description": "Exercism.python.little-sisters-essay.string_methods",
+        "peekOfCode": "def check_sentence_ending(sentence):\n    \"\"\"Check the ending of the sentence to verify that a period is present.\n    :param sentence: str - a sentence to check.\n    :return: bool - return True if punctuated correctly with period, False otherwise.\n    \"\"\"\n    return sentence.endswith('.')\ndef clean_up_spacing(sentence):\n    \"\"\"Verify that there isn't any whitespace at the start and end of the sentence.\n    :param sentence: str - a sentence to clean of leading and trailing space characters.\n    :return: str - a sentence that has been cleaned of leading and trailing space characters.",
+        "detail": "Exercism.python.little-sisters-essay.string_methods",
+        "documentation": {}
+    },
+    {
+        "label": "clean_up_spacing",
+        "kind": 2,
+        "importPath": "Exercism.python.little-sisters-essay.string_methods",
+        "description": "Exercism.python.little-sisters-essay.string_methods",
+        "peekOfCode": "def clean_up_spacing(sentence):\n    \"\"\"Verify that there isn't any whitespace at the start and end of the sentence.\n    :param sentence: str - a sentence to clean of leading and trailing space characters.\n    :return: str - a sentence that has been cleaned of leading and trailing space characters.\n    \"\"\"\n    return sentence.strip(' ')\ndef replace_word_choice(sentence, old_word, new_word):\n    \"\"\"Replace a word in the provided sentence with a new one.\n    :param sentence: str - a sentence to replace words in.\n    :param old_word: str - word to replace.",
+        "detail": "Exercism.python.little-sisters-essay.string_methods",
+        "documentation": {}
+    },
+    {
+        "label": "replace_word_choice",
+        "kind": 2,
+        "importPath": "Exercism.python.little-sisters-essay.string_methods",
+        "description": "Exercism.python.little-sisters-essay.string_methods",
+        "peekOfCode": "def replace_word_choice(sentence, old_word, new_word):\n    \"\"\"Replace a word in the provided sentence with a new one.\n    :param sentence: str - a sentence to replace words in.\n    :param old_word: str - word to replace.\n    :param new_word: str - replacement word.\n    :return: str - input sentence with new words in place of old words.\n    \"\"\"\n    return sentence.replace(old_word, new_word)",
+        "detail": "Exercism.python.little-sisters-essay.string_methods",
+        "documentation": {}
+    },
+    {
+        "label": "LittleSistersEssayTest",
+        "kind": 6,
+        "importPath": "Exercism.python.little-sisters-essay.string_methods_test",
+        "description": "Exercism.python.little-sisters-essay.string_methods_test",
+        "peekOfCode": "class LittleSistersEssayTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_capitalize_word(self):\n        actual_result = capitalize_title(\"canopy\")\n        expected = \"Canopy\"\n        error_message = (f'Called capitalize_title(\"canopy\"). '\n                         f'The function returned \"{actual_result}\", '\n                         f'but the tests expected \"{expected}\" for the title.')\n        self.assertEqual(actual_result, expected, msg=error_message)\n    @pytest.mark.task(taskno=1)",
+        "detail": "Exercism.python.little-sisters-essay.string_methods_test",
+        "documentation": {}
+    },
+    {
+        "label": "add_prefix_un",
+        "kind": 2,
+        "importPath": "Exercism.python.little-sisters-vocab.strings",
+        "description": "Exercism.python.little-sisters-vocab.strings",
+        "peekOfCode": "def add_prefix_un(word):\n    \"\"\"Take the given word and add the 'un' prefix.\n    :param word: str - containing the root word.\n    :return: str - of root word prepended with 'un'.\n    \"\"\"\n    return 'un' + word\ndef make_word_groups(vocab_words):\n    \"\"\"Transform a list containing a prefix and words into a string.\n    The string consists of the prefix followed by the words with prefix prepended,\n    separated by ' :: '.",
+        "detail": "Exercism.python.little-sisters-vocab.strings",
+        "documentation": {}
+    },
+    {
+        "label": "make_word_groups",
+        "kind": 2,
+        "importPath": "Exercism.python.little-sisters-vocab.strings",
+        "description": "Exercism.python.little-sisters-vocab.strings",
+        "peekOfCode": "def make_word_groups(vocab_words):\n    \"\"\"Transform a list containing a prefix and words into a string.\n    The string consists of the prefix followed by the words with prefix prepended,\n    separated by ' :: '.\n    :param vocab_words: list - of vocabulary words with prefix in first index.\n    :return: str - of prefix followed by vocabulary words with prefix applied.\n    \"\"\"\n    prefix = vocab_words[0]\n    return ' :: '.join([prefix] + [f\"{prefix}{word}\" for word in vocab_words[1:]])\ndef remove_suffix_ness(word):",
+        "detail": "Exercism.python.little-sisters-vocab.strings",
+        "documentation": {}
+    },
+    {
+        "label": "remove_suffix_ness",
+        "kind": 2,
+        "importPath": "Exercism.python.little-sisters-vocab.strings",
+        "description": "Exercism.python.little-sisters-vocab.strings",
+        "peekOfCode": "def remove_suffix_ness(word):\n    \"\"\"Remove the suffix from the word while keeping spelling in mind.\n    :param word: str - of word to remove suffix from.\n    :return: str - of word with suffix removed & spelling adjusted.\n    For example: \"heaviness\" becomes \"heavy\", but \"sadness\" becomes \"sad\".\n    \"\"\"\n    root = word[:-4]  # Remove 'ness' suffix (4 characters)\n    if root.endswith('i'):\n        return root[:-1] + 'y'\n    return root",
+        "detail": "Exercism.python.little-sisters-vocab.strings",
+        "documentation": {}
+    },
+    {
+        "label": "adjective_to_verb",
+        "kind": 2,
+        "importPath": "Exercism.python.little-sisters-vocab.strings",
+        "description": "Exercism.python.little-sisters-vocab.strings",
+        "peekOfCode": "def adjective_to_verb(sentence, index):\n    \"\"\"Change the adjective within the sentence to a verb.\n    :param sentence: str - that uses the word in sentence.\n    :param index: int - index of the word to remove and transform.\n    :return: str - word that changes the extracted adjective to a verb.\n    For example, (\"It got dark as the sun set.\", 2) becomes \"darken\".\n    \"\"\"\n    words = sentence.split()\n    adjective = words[index].rstrip('.,!?;:')  # Remove trailing punctuation\n    return adjective + 'en'",
+        "detail": "Exercism.python.little-sisters-vocab.strings",
+        "documentation": {}
+    },
+    {
+        "label": "LittleSistersVocabTest",
+        "kind": 6,
+        "importPath": "Exercism.python.little-sisters-vocab.strings_test",
+        "description": "Exercism.python.little-sisters-vocab.strings_test",
+        "peekOfCode": "class LittleSistersVocabTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_add_prefix_un(self):\n        input_data = ['happy', 'manageable', 'fold', 'eaten', 'avoidable', 'usual']\n        result_data = [f'un{item}' for item in input_data]\n        for variant, (word, expected) in enumerate(zip(input_data, result_data), start=1):\n            with self.subTest(f'variation #{variant}', word=word, expected=expected):\n                actual_result = add_prefix_un(word)\n                error_message = (f'Called add_prefix_un(\"{word}\"). '\n                                f'The function returned \"{actual_result}\", but the '",
+        "detail": "Exercism.python.little-sisters-vocab.strings_test",
+        "documentation": {}
+    },
+    {
+        "label": "round_scores",
+        "kind": 2,
+        "importPath": "Exercism.python.making-the-grade.loops",
+        "description": "Exercism.python.making-the-grade.loops",
+        "peekOfCode": "def round_scores(student_scores):\n    \"\"\"Round all provided student scores.\n    :param student_scores: list - float or int of student exam scores.\n    :return: list - student scores *rounded* to nearest integer value.\n    \"\"\"\n# While you can give \"partial credit\" on exam questions, overall exam scores have to be ints. \n# So before you can do anything else with the class scores, you need to go through the grades \n# and turn any float scores into ints. Lucky for you, Python has the built-in round() function you can use.\n# Create the function round_scores(student_scores) that takes a list of student_scores. \n# This function should consume the input list and return a new list with all the scores converted to ints. ",
+        "detail": "Exercism.python.making-the-grade.loops",
+        "documentation": {}
+    },
+    {
+        "label": "count_failed_students",
+        "kind": 2,
+        "importPath": "Exercism.python.making-the-grade.loops",
+        "description": "Exercism.python.making-the-grade.loops",
+        "peekOfCode": "def count_failed_students(student_scores):\n    \"\"\"Count the number of failing students out of the group provided.\n    :param student_scores: list - containing int student scores.\n    :return: int - count of student scores at or below 40.\n    \"\"\"\n# As you were grading the exam, you noticed some students weren't performing as well as you had hoped. \n# But you were distracted, and forgot to note exactly how many students.\n# Create the function count_failed_students(student_scores) that takes a list of student_scores. \n# This function should count up the number of students who don't have passing scores and return that count as an integer.\n# A student needs a score greater than 40 to achieve a passing grade on the exam.",
+        "detail": "Exercism.python.making-the-grade.loops",
+        "documentation": {}
+    },
+    {
+        "label": "above_threshold",
+        "kind": 2,
+        "importPath": "Exercism.python.making-the-grade.loops",
+        "description": "Exercism.python.making-the-grade.loops",
+        "peekOfCode": "def above_threshold(student_scores, threshold):\n    \"\"\"Determine how many of the provided student scores were 'the best' based on the provided threshold.\n    :param student_scores: list - of integer scores.\n    :param threshold: int - threshold to cross to be the \"best\" score.\n    :return: list - of integer scores that are at or above the \"best\" threshold.\n    \"\"\"\n# The teacher you're assisting wants to find the group of students who've performed \"the best\" on this exam. \n# What qualifies as \"the best\" fluctuates, \n# so you need to find the student scores that are greater than or equal to the current threshold.\n# Create the function above_threshold(student_scores, threshold) taking student_scores (a list of grades), ",
+        "detail": "Exercism.python.making-the-grade.loops",
+        "documentation": {}
+    },
+    {
+        "label": "letter_grades",
+        "kind": 2,
+        "importPath": "Exercism.python.making-the-grade.loops",
+        "description": "Exercism.python.making-the-grade.loops",
+        "peekOfCode": "def letter_grades(highest):\n    \"\"\"Create a list of grade thresholds based on the provided highest grade.\n    :param highest: int - value of highest exam score.\n    :return: list - of lower threshold scores for each D-A letter grade interval.\n            For example, where the highest score is 100, and failing is <= 40,\n            The result would be [41, 56, 71, 86]:\n            41 <= \"D\" <= 55\n            56 <= \"C\" <= 70\n            71 <= \"B\" <= 85\n            86 <= \"A\" <= 100",
+        "detail": "Exercism.python.making-the-grade.loops",
+        "documentation": {}
+    },
+    {
+        "label": "student_ranking",
+        "kind": 2,
+        "importPath": "Exercism.python.making-the-grade.loops",
+        "description": "Exercism.python.making-the-grade.loops",
+        "peekOfCode": "def student_ranking(student_scores, student_names):\n    \"\"\"Organize the student's rank, name, and grade information in descending order.\n    :param student_scores: list - of scores in descending order.\n    :param student_names: list - of string names by exam score in descending order.\n    :return: list - of strings in format [\"<rank>. <student name>: <score>\"].\n    \"\"\"\n# You have a list of exam scores in descending order, and another list of student names also sorted \n# in descending order by their exam scores. You would like to match each student name with their exam score\n# and print out an overall class ranking.\n# Create the function student_ranking(student_scores, student_names) with parameters student_scores and ",
+        "detail": "Exercism.python.making-the-grade.loops",
+        "documentation": {}
+    },
+    {
+        "label": "perfect_score",
+        "kind": 2,
+        "importPath": "Exercism.python.making-the-grade.loops",
+        "description": "Exercism.python.making-the-grade.loops",
+        "peekOfCode": "def perfect_score(student_info):\n    \"\"\"Create a list that contains the name and grade of the first student to make a perfect score on the exam.\n    :param student_info: list - of [<student name>, <score>] lists.\n    :return: list - first `[<student name>, 100]` or `[]` if no student score of 100 is found.\n    \"\"\"\n# Although a \"perfect\" score of 100 is rare on an exam, it is interesting to know if at least one student has achieved it.\n# Create the function perfect_score(student_info) with parameter student_info. student_info is a list of lists containing \n# the name and score of each student: [[\"Charles\", 90], [\"Tony\", 80]]. \n# The function should return the first [<name>, <score>] pair of the student who scored 100 on the exam.\n# If no 100 scores are found in student_info, an empty list [] should be returned.",
+        "detail": "Exercism.python.making-the-grade.loops",
+        "documentation": {}
+    },
+    {
+        "label": "MakingTheGradeTest",
+        "kind": 6,
+        "importPath": "Exercism.python.making-the-grade.loops_test",
+        "description": "Exercism.python.making-the-grade.loops_test",
+        "peekOfCode": "class MakingTheGradeTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_round_scores(self):\n        # Because we the input list can be mutated, the test data has been created\n        # as tuples, which we then convert to a list when the test runs.\n        # this makes accurate error messages easier to create.\n        test_data = [tuple(),\n                     (.5,),\n                     (1.5,),\n                     (90.33, 40.5, 55.44, 70.05, 30.55, 25.45, 80.45, 95.3, 38.7, 40.3),",
+        "detail": "Exercism.python.making-the-grade.loops_test",
+        "documentation": {}
+    },
+    {
+        "label": "add_item",
+        "kind": 2,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods",
+        "description": "Exercism.python.mecha-munch-management.dict_methods",
+        "peekOfCode": "def add_item(current_cart, items_to_add):\n    \"\"\"Add items to shopping cart.\n    :param current_cart: dict - the current shopping cart.\n    :param items_to_add: iterable - items to add to the cart.\n    :return: dict - the updated user cart dictionary.\n    \"\"\"\n# The MVP should allow the user to add items to their shopping cart. This could be a single item or multiple items at once. \n# Since this is an MVP, item quantity is indicated by repeats. If a user wants to add 2 Oranges, 'Oranges' will appear twice in the input iterable. \n# If the user already has the item in their cart, the cart quantity should be increased by 1. \n# If the item is new to the cart, it should be added with a quantity of 1.",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "read_notes",
+        "kind": 2,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods",
+        "description": "Exercism.python.mecha-munch-management.dict_methods",
+        "peekOfCode": "def read_notes(notes):\n    \"\"\"Create user cart from an iterable notes entry.\n    :param notes: iterable of items to add to cart.\n    :return: dict - a user shopping cart dictionary.\n    \"\"\"\n# paUh-oh. Looks like the product team is engaging in feature creep. They want to add extra functionality to the MVP. \n# The application now has to create a shopping cart by reading items off a users notes app. \n# Convenient for the users, but slightly more work for the team.\n# Create the function read_notes(<notes>) that can take any list-like iterable as an argument. \n# The function should parse the items and create a user shopping cart/dictionary. ",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "update_recipes",
+        "kind": 2,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods",
+        "description": "Exercism.python.mecha-munch-management.dict_methods",
+        "peekOfCode": "def update_recipes(ideas, recipe_updates):\n    \"\"\"Update the recipe ideas dictionary.\n    :param ideas: dict - The \"recipe ideas\" dict.\n    :param recipe_updates: dict - dictionary with updates for the ideas section.\n    :return: dict - updated \"recipe ideas\" dict.\n    \"\"\"\n# The app has an \"ideas\" section that's filled with finished recipes from various cuisines. The user can select any one of these recipes and have \n# all its ingredients added to their shopping cart automatically. The project manager has asked you create a way to edit these \"ideas\" recipes, \n# since the content team keeps changing around ingredients and quantities.\n# Create the function update_recipes(<ideas>, <recipe_updates>) that takes an \"ideas\" dictionary and an iterable of recipe updates as arguments. ",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "sort_entries",
+        "kind": 2,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods",
+        "description": "Exercism.python.mecha-munch-management.dict_methods",
+        "peekOfCode": "def sort_entries(cart):\n    \"\"\"Sort a users shopping cart in alphabetically order.\n    :param cart: dict - a users shopping cart dictionary.\n    :return: dict - users shopping cart sorted in alphabetical order.\n    \"\"\"\n    # Needs a dictionary\n    # Goal: Copy it (no reference, real copy), sort it\n    # How? Get the items using dict.items, sort them using sorted(), return a dict to ensure\n    return dict(sorted(cart.items()))\ndef send_to_store(cart, aisle_mapping):",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_store",
+        "kind": 2,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods",
+        "description": "Exercism.python.mecha-munch-management.dict_methods",
+        "peekOfCode": "def send_to_store(cart, aisle_mapping):\n    \"\"\"Combine users order to aisle and refrigeration information.\n    :param cart: dict - users shopping cart dictionary.\n    :param aisle_mapping: dict - aisle and refrigeration information dictionary.\n    :return: dict - fulfillment dictionary ready to send to store.\n    \"\"\"\n    # Create empty fulfillment cart\n    fulfillment_cart = {}\n    # For each item in the cart\n    for item, quantity in cart.items():",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "update_store_inventory",
+        "kind": 2,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods",
+        "description": "Exercism.python.mecha-munch-management.dict_methods",
+        "peekOfCode": "def update_store_inventory(fulfillment_cart, store_inventory):\n    \"\"\"Update store inventory levels with user order.\"\"\"\n    # APPROACH 1: Classical Procedural Way\n    # Step 1: Make a copy of store inventory to modify\n    updated_inventory = store_inventory.copy()\n    # Step 2: Loop through each item in fulfillment cart\n    for item, details in fulfillment_cart.items():\n        # Get ordered quantity from fulfillment cart\n        ordered_quantity = details[0]\n        # Get current store quantity",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "MechaMunchManagementTest",
+        "kind": 6,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test",
+        "peekOfCode": "class MechaMunchManagementTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_add_item(self):\n        for variant, (input_data, expected) in enumerate(add_item_data, start=1):\n            with self.subTest(f'variation #{variant}', input_data=input_data, expected=expected):\n                actual_result = add_item(input_data[0], input_data[1])\n                error_msg= (f'Called add_item({input_data[0]}, {input_data[1]}). '\n                            f'The function returned {actual_result}, but the tests '\n                            f'expected: {expected} once the item was added.')\n                self.assertEqual(actual_result, expected, msg=error_msg)",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test",
+        "documentation": {}
+    },
+    {
+        "label": "add_item_inputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "add_item_inputs = [\n    ({\"Apple\": 1, \"Banana\": 4}, (\"Apple\", \"Banana\", \"Orange\")),\n    (\n        {\"Orange\": 1, \"Raspberry\": 1, \"Blueberries\": 10},\n        [\"Raspberry\", \"Blueberries\", \"Raspberry\"],\n    ),\n    (\n        {\"Broccoli\": 1, \"Banana\": 1},\n        (\"Broccoli\", \"Kiwi\", \"Kiwi\", \"Kiwi\", \"Melon\", \"Apple\", \"Banana\", \"Banana\"),\n    ),",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "add_item_outputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "add_item_outputs = [\n    {\"Apple\": 2, \"Banana\": 5, \"Orange\": 1},\n    {\"Orange\": 1, \"Raspberry\": 3, \"Blueberries\": 11},\n    {\"Broccoli\": 2, \"Banana\": 3, \"Kiwi\": 3, \"Melon\": 1, \"Apple\": 1},\n]\nadd_item_data = zip(add_item_inputs, add_item_outputs)\n##read_notes test cases##\nread_notes_inputs = [\n    (\"Apple\", \"Banana\"),\n    (\"Orange\", \"Raspberry\", \"Blueberries\"),",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "add_item_data",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "add_item_data = zip(add_item_inputs, add_item_outputs)\n##read_notes test cases##\nread_notes_inputs = [\n    (\"Apple\", \"Banana\"),\n    (\"Orange\", \"Raspberry\", \"Blueberries\"),\n    [\"Broccoli\", \"Kiwi\", \"Melon\", \"Apple\", \"Banana\"],\n]\nread_notes_outputs = [\n    {\"Apple\": 1, \"Banana\": 1},\n    {\"Orange\": 1, \"Raspberry\": 1, \"Blueberries\": 1},",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "read_notes_inputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "read_notes_inputs = [\n    (\"Apple\", \"Banana\"),\n    (\"Orange\", \"Raspberry\", \"Blueberries\"),\n    [\"Broccoli\", \"Kiwi\", \"Melon\", \"Apple\", \"Banana\"],\n]\nread_notes_outputs = [\n    {\"Apple\": 1, \"Banana\": 1},\n    {\"Orange\": 1, \"Raspberry\": 1, \"Blueberries\": 1},\n    {\"Broccoli\": 1, \"Kiwi\": 1, \"Melon\": 1, \"Apple\": 1, \"Banana\": 1},\n]",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "read_notes_outputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "read_notes_outputs = [\n    {\"Apple\": 1, \"Banana\": 1},\n    {\"Orange\": 1, \"Raspberry\": 1, \"Blueberries\": 1},\n    {\"Broccoli\": 1, \"Kiwi\": 1, \"Melon\": 1, \"Apple\": 1, \"Banana\": 1},\n]\nread_notes_data = zip(read_notes_inputs, read_notes_outputs)\n##update_recipes test cases##\nupdate_recipes_inputs = [\n    (\n        {",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "read_notes_data",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "read_notes_data = zip(read_notes_inputs, read_notes_outputs)\n##update_recipes test cases##\nupdate_recipes_inputs = [\n    (\n        {\n            \"Banana Bread\": {\n                \"Banana\": 1,\n                \"Apple\": 1,\n                \"Walnuts\": 1,\n                \"Flour\": 1,",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "update_recipes_inputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "update_recipes_inputs = [\n    (\n        {\n            \"Banana Bread\": {\n                \"Banana\": 1,\n                \"Apple\": 1,\n                \"Walnuts\": 1,\n                \"Flour\": 1,\n                \"Eggs\": 2,\n                \"Butter\": 1,",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "update_recipes_outputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "update_recipes_outputs = [\n    {\n        \"Banana Bread\": {\n            \"Banana\": 4,\n            \"Walnuts\": 2,\n            \"Flour\": 1,\n            \"Butter\": 1,\n            \"Milk\": 2,\n            \"Eggs\": 3,\n        },",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "update_recipes_data",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "update_recipes_data = zip(update_recipes_inputs, update_recipes_outputs)\n##sort_entries test cases##\nsort_entries_inputs = [\n    {\"Banana\": 4, \"Apple\": 2, \"Orange\": 1, \"Pear\": 12},\n    {\"Apple\": 3, \"Orange\": 5, \"Banana\": 1, \"Avocado\": 2},\n    {\"Orange\": 3, \"Banana\": 2, \"Apple\": 1},\n    {\n        \"Apple\": 2,\n        \"Raspberry\": 2,\n        \"Blueberries\": 5,",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "sort_entries_inputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "sort_entries_inputs = [\n    {\"Banana\": 4, \"Apple\": 2, \"Orange\": 1, \"Pear\": 12},\n    {\"Apple\": 3, \"Orange\": 5, \"Banana\": 1, \"Avocado\": 2},\n    {\"Orange\": 3, \"Banana\": 2, \"Apple\": 1},\n    {\n        \"Apple\": 2,\n        \"Raspberry\": 2,\n        \"Blueberries\": 5,\n        \"Broccoli\": 2,\n        \"Kiwi\": 1,",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "sort_entries_outputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "sort_entries_outputs = [\n    {\"Apple\": 2, \"Banana\": 4, \"Orange\": 1, \"Pear\": 12},\n    {\"Apple\": 3, \"Avocado\": 2, \"Banana\": 1, \"Orange\": 5},\n    {\"Apple\": 1, \"Banana\": 2, \"Orange\": 3},\n    {\n        \"Apple\": 2,\n        \"Blueberries\": 5,\n        \"Broccoli\": 2,\n        \"Kiwi\": 1,\n        \"Melon\": 4,",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "sort_entries_data",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "sort_entries_data = zip(sort_entries_inputs, sort_entries_outputs)\n##send_to_store test cases##\nsend_to_store_inputs = [\n    (\n        {\"Banana\": 3, \"Apple\": 2, \"Orange\": 1, \"Milk\": 2},\n        {\n            \"Banana\": [\"Aisle 5\", False],\n            \"Apple\": [\"Aisle 4\", False],\n            \"Orange\": [\"Aisle 4\", False],\n            \"Milk\": [\"Aisle 2\", True],",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_store_inputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "send_to_store_inputs = [\n    (\n        {\"Banana\": 3, \"Apple\": 2, \"Orange\": 1, \"Milk\": 2},\n        {\n            \"Banana\": [\"Aisle 5\", False],\n            \"Apple\": [\"Aisle 4\", False],\n            \"Orange\": [\"Aisle 4\", False],\n            \"Milk\": [\"Aisle 2\", True],\n        },\n    ),",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_store_outputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "send_to_store_outputs = [\n    {\n        \"Orange\": [1, \"Aisle 4\", False],\n        \"Milk\": [2, \"Aisle 2\", True],\n        \"Banana\": [3, \"Aisle 5\", False],\n        \"Apple\": [2, \"Aisle 4\", False],\n    },\n    {\n        \"Yoghurt\": [2, \"Aisle 2\", True],\n        \"Milk\": [5, \"Aisle 2\", True],",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "send_to_store_data",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "send_to_store_data = zip(send_to_store_inputs, send_to_store_outputs)\n##update_store_inventory test cases##\nupdate_store_inventory_inputs = [\n    (\n        {\n            \"Orange\": [1, \"Aisle 4\", False],\n            \"Milk\": [2, \"Aisle 2\", True],\n            \"Banana\": [3, \"Aisle 5\", False],\n            \"Apple\": [2, \"Aisle 4\", False],\n        },",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "update_store_inventory_inputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "update_store_inventory_inputs = [\n    (\n        {\n            \"Orange\": [1, \"Aisle 4\", False],\n            \"Milk\": [2, \"Aisle 2\", True],\n            \"Banana\": [3, \"Aisle 5\", False],\n            \"Apple\": [2, \"Aisle 4\", False],\n        },\n        {\n            \"Banana\": [15, \"Aisle 5\", False],",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "update_store_inventory_outputs",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "update_store_inventory_outputs = [\n    {\n        \"Banana\": [12, \"Aisle 5\", False],\n        \"Apple\": [10, \"Aisle 4\", False],\n        \"Orange\": [\"Out of Stock\", \"Aisle 4\", False],\n        \"Milk\": [2, \"Aisle 2\", True],\n    },\n    {\n        \"Juice\": [5, \"Aisle 5\", False],\n        \"Yoghurt\": [2, \"Aisle 2\", True],",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "update_store_inventory_data",
+        "kind": 5,
+        "importPath": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "description": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "peekOfCode": "update_store_inventory_data = zip(\n    update_store_inventory_inputs, update_store_inventory_outputs\n)",
+        "detail": "Exercism.python.mecha-munch-management.dict_methods_test_data",
+        "documentation": {}
+    },
+    {
+        "label": "is_criticality_balanced",
+        "kind": 2,
+        "importPath": "Exercism.python.meltdown-mitigation.conditionals",
+        "description": "Exercism.python.meltdown-mitigation.conditionals",
+        "peekOfCode": "def is_criticality_balanced(temperature, neutrons_emitted):\n    \"\"\"Verify criticality is balanced.\n    :param temperature: int or float - temperature in kelvin.\n    :param neutrons_emitted: int or float - neutrons emitted per second.\n    :return: bool - is criticality balanced?\n    A reactor is critical if:\n    - Temperature < 800 K\n    - Neutrons emitted > 500\n    - Product of temp and neutrons < 500000\n    \"\"\"",
+        "detail": "Exercism.python.meltdown-mitigation.conditionals",
+        "documentation": {}
+    },
+    {
+        "label": "reactor_efficiency",
+        "kind": 2,
+        "importPath": "Exercism.python.meltdown-mitigation.conditionals",
+        "description": "Exercism.python.meltdown-mitigation.conditionals",
+        "peekOfCode": "def reactor_efficiency(voltage, current, theoretical_max_power):\n    \"\"\"Assess reactor efficiency zone.\n    :param voltage: int/float - voltage value\n    :param current: int/float - current value\n    :param theoretical_max_power: int/float - 100% efficiency power\n    :return: str - efficiency zone color\n    \"\"\"\n    generated_power = voltage * current\n    efficiency = (generated_power / theoretical_max_power) * 100\n    if efficiency >= 80:",
+        "detail": "Exercism.python.meltdown-mitigation.conditionals",
+        "documentation": {}
+    },
+    {
+        "label": "fail_safe",
+        "kind": 2,
+        "importPath": "Exercism.python.meltdown-mitigation.conditionals",
+        "description": "Exercism.python.meltdown-mitigation.conditionals",
+        "peekOfCode": "def fail_safe(temperature, neutrons_produced_per_second, threshold):\n    \"\"\"Assess reactor status code.\n    :param temperature: int/float - temperature in kelvin\n    :param neutrons_produced_per_second: int/float - neutron flux\n    :param threshold: int/float - safety threshold\n    :return: str - status code ('LOW', 'NORMAL', 'DANGER')\n    1. LOW: product < 90% of threshold\n    2. NORMAL: product within ±10% of threshold\n    3. DANGER: product outside above ranges\n    \"\"\"",
+        "detail": "Exercism.python.meltdown-mitigation.conditionals",
+        "documentation": {}
+    },
+    {
+        "label": "MeltdownMitigationTest",
+        "kind": 6,
+        "importPath": "Exercism.python.meltdown-mitigation.conditionals_test",
+        "description": "Exercism.python.meltdown-mitigation.conditionals_test",
+        "peekOfCode": "class MeltdownMitigationTest(unittest.TestCase):\n    \"\"\"Test cases for Meltdown mitigation exercise.\n    \"\"\"\n    @pytest.mark.task(taskno=1)\n    def test_is_criticality_balanced(self):\n        \"\"\"Testing border cases around typical points.\n        T, n == (800, 500), (625, 800), (500, 1000), etc.\n        \"\"\"\n        test_data = ((750, 650, True), (799, 501, True), (500, 600, True),\n                     (1000, 800, False), (800, 500, False), (800, 500.01, False),",
+        "detail": "Exercism.python.meltdown-mitigation.conditionals_test",
+        "documentation": {}
+    },
+    {
+        "label": "get_coordinate",
+        "kind": 2,
+        "importPath": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "description": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "peekOfCode": "def get_coordinate(record):\n    \"\"\"Return coordinate value from a tuple containing the treasure name, and treasure coordinate.\n    :param record: tuple - with a (treasure, coordinate) pair.\n    :return: str - the extracted map coordinate.\n    \"\"\"\n    return record[1]\ndef convert_coordinate(coordinate):\n    \"\"\"Split the given coordinate into tuple containing its individual components.\n    :param coordinate: str - a string map coordinate\n    :return: tuple - the string coordinate split into its individual components.",
+        "detail": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "documentation": {}
+    },
+    {
+        "label": "convert_coordinate",
+        "kind": 2,
+        "importPath": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "description": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "peekOfCode": "def convert_coordinate(coordinate):\n    \"\"\"Split the given coordinate into tuple containing its individual components.\n    :param coordinate: str - a string map coordinate\n    :return: tuple - the string coordinate split into its individual components.\n    \"\"\"\n    coordinate_number = coordinate[0]\n    coordinate_letter = coordinate[1]\n    return (coordinate_number, coordinate_letter)\ndef compare_records(azara_record, rui_record):\n    \"\"\"Compare two record types and determine if their coordinates match.",
+        "detail": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "documentation": {}
+    },
+    {
+        "label": "compare_records",
+        "kind": 2,
+        "importPath": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "description": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "peekOfCode": "def compare_records(azara_record, rui_record):\n    \"\"\"Compare two record types and determine if their coordinates match.\n    :param azara_record: tuple - a (treasure, coordinate) pair.\n    :param rui_record: tuple - a (location, tuple(coordinate_1, coordinate_2), quadrant) trio.\n    :return: bool - do the coordinates match?\n    \"\"\"\n    aza_coordinate = convert_coordinate(azara_record[1])\n    rui_coordinate = rui_record[1]\n    print(f\"aza_coordinate: {aza_coordinate}, type: {type(aza_coordinate)}\")\n    print(f\"rui_coordinate: {rui_coordinate}, type: {type(rui_coordinate)}\")",
+        "detail": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "documentation": {}
+    },
+    {
+        "label": "create_record",
+        "kind": 2,
+        "importPath": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "description": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "peekOfCode": "def create_record(azara_record, rui_record):\n    \"\"\"Combine the two record types (if possible) and create a combined record group.\n    :param azara_record: tuple - a (treasure, coordinate) pair.\n    :param rui_record: tuple - a (location, coordinate, quadrant) trio.\n    :return: tuple or str - the combined record (if compatible), or the string \"not a match\" (if incompatible).\n    \"\"\"\n    match = compare_records(azara_record, rui_record)\n    if not match:\n        return \"not a match\"\n    return (azara_record[0], azara_record[1], rui_record[0], rui_record[1], rui_record[2])",
+        "detail": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "documentation": {}
+    },
+    {
+        "label": "clean_up",
+        "kind": 2,
+        "importPath": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "description": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "peekOfCode": "def clean_up(combined_record_group):\n    \"\"\"Clean up a combined record group into a multi-line string of single records.\n    :param combined_record_group: tuple - everything from both participants.\n    :return: str - everything \"cleaned\", excess coordinates and information are removed.\n    The return statement should be a multi-lined string with items separated by newlines.\n    (see HINTS.md for an example).\n    \"\"\"\n    report = []\n    for record in combined_record_group:\n        cleaned_record = (record[0], record[2], record[3], record[4])",
+        "detail": "Exercism.python.tisbury-treasure-hunt.tuples",
+        "documentation": {}
+    },
+    {
+        "label": "TisburyTreasureTest",
+        "kind": 6,
+        "importPath": "Exercism.python.tisbury-treasure-hunt.tuples_test",
+        "description": "Exercism.python.tisbury-treasure-hunt.tuples_test",
+        "peekOfCode": "class TisburyTreasureTest(unittest.TestCase):\n    @pytest.mark.task(taskno=1)\n    def test_get_coordinate(self):\n        input_data = [('Scrimshawed Whale Tooth', '2A'),\n                      ('Brass Spyglass', '4B'),\n                      ('Robot Parrot', '1C'),\n                      ('Glass Starfish', '6D'),\n                      ('Vintage Pirate Hat', '7E'),\n                      ('Pirate Flag', '7F'),\n                      ('Crystal Crab', '6A'),",
+        "detail": "Exercism.python.tisbury-treasure-hunt.tuples_test",
+        "documentation": {}
+    },
+    {
+        "label": "Article",
+        "kind": 6,
+        "importPath": "SICP_notes.sicp_downloader",
+        "description": "SICP_notes.sicp_downloader",
+        "peekOfCode": "class Article(NamedTuple):\n    \"\"\"Represents an SICP article with its metadata.\"\"\"\n    date: str\n    title: str\n    url: str\nclass SICPDownloader:\n    \"\"\"Handles downloading and converting SICP articles to PDF.\"\"\"\n    def __init__(self, output_dir: str = \"sicp_articles\"):\n        \"\"\"Initialize the downloader with configuration.\"\"\"\n        self.output_dir = Path(output_dir)",
+        "detail": "SICP_notes.sicp_downloader",
+        "documentation": {}
+    },
+    {
+        "label": "SICPDownloader",
+        "kind": 6,
+        "importPath": "SICP_notes.sicp_downloader",
+        "description": "SICP_notes.sicp_downloader",
+        "peekOfCode": "class SICPDownloader:\n    \"\"\"Handles downloading and converting SICP articles to PDF.\"\"\"\n    def __init__(self, output_dir: str = \"sicp_articles\"):\n        \"\"\"Initialize the downloader with configuration.\"\"\"\n        self.output_dir = Path(output_dir)\n        self.output_dir.mkdir(parents=True, exist_ok=True)\n        self.base_url = \"https://eli.thegreenplace.net\"\n        self.session: Optional[aiohttp.ClientSession] = None\n    async def __aenter__(self):\n        \"\"\"Set up async context manager.\"\"\"",
+        "detail": "SICP_notes.sicp_downloader",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "SICP_notes.sicp_downloader",
+        "description": "SICP_notes.sicp_downloader",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass Article(NamedTuple):\n    \"\"\"Represents an SICP article with its metadata.\"\"\"\n    date: str\n    title: str\n    url: str\nclass SICPDownloader:\n    \"\"\"Handles downloading and converting SICP articles to PDF.\"\"\"\n    def __init__(self, output_dir: str = \"sicp_articles\"):\n        \"\"\"Initialize the downloader with configuration.\"\"\"",
+        "detail": "SICP_notes.sicp_downloader",
+        "documentation": {}
+    }
+]
