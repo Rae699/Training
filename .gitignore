@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+ChatGpt_OpenAI_API_key.txt
+Claude_API_key.txt
+Samira_Saina_Automation/   
+SICP_notes/
+DDIA_notes/
 
 # C extensions
 *.so

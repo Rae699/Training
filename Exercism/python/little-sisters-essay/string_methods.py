@@ -11,13 +11,16 @@ def capitalize_title(title):
     return title.title()
 
 
+
 def check_sentence_ending(sentence):
     """Check the ending of the sentence to verify that a period is present.
 
     :param sentence: str - a sentence to check.
     :return: bool - return True if punctuated correctly with period, False otherwise.
     """
+    
     return sentence.endswith('.')
+
 
 
 def clean_up_spacing(sentence):
@@ -27,7 +30,8 @@ def clean_up_spacing(sentence):
     :return: str - a sentence that has been cleaned of leading and trailing space characters.
     """
 
-    return sentence.strip(' ')
+    return sentence.strip(" ")
+
 
 
 def replace_word_choice(sentence, old_word, new_word):
@@ -39,4 +43,4 @@ def replace_word_choice(sentence, old_word, new_word):
     :return: str - input sentence with new words in place of old words.
     """
 
-    return sentence.replace(old_word, new_word)
+    return sentence.replace(old_word,new_word)

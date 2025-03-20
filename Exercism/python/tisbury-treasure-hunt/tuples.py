@@ -7,18 +7,20 @@ def get_coordinate(record):
     :param record: tuple - with a (treasure, coordinate) pair.
     :return: str - the extracted map coordinate.
     """
+    
     return record[1]
 
 
+
+
 def convert_coordinate(coordinate):
-    """Split the given coordinate into tuple containing its individual components.
+    """Split the given coordinate into its individual components.
 
     :param coordinate: str - a string map coordinate
     :return: tuple - the string coordinate split into its individual components.
     """
-    coordinate_number = coordinate[0]
-    coordinate_letter = coordinate[1]
-    return (coordinate_number, coordinate_letter)
+    coordinate_splitted = tuple(coordinate)
+    return coordinate_splitted
 
 
 def compare_records(azara_record, rui_record):
@@ -28,13 +30,10 @@ def compare_records(azara_record, rui_record):
     :param rui_record: tuple - a (location, tuple(coordinate_1, coordinate_2), quadrant) trio.
     :return: bool - do the coordinates match?
     """
-    aza_coordinate = convert_coordinate(azara_record[1])
+    
+    azara_coordinate = tuple(azara_record[1])
     rui_coordinate = rui_record[1]
-    
-    print(f"aza_coordinate: {aza_coordinate}, type: {type(aza_coordinate)}")
-    print(f"rui_coordinate: {rui_coordinate}, type: {type(rui_coordinate)}")
-    
-    return aza_coordinate == rui_coordinate
+    return azara_coordinate == rui_coordinate
 
 
 def create_record(azara_record, rui_record):
@@ -45,10 +44,16 @@ def create_record(azara_record, rui_record):
     :return: tuple or str - the combined record (if compatible), or the string "not a match" (if incompatible).
     """
     
-    match = compare_records(azara_record, rui_record)
-    if not match:
+    # Convert Azara's coordinate to tuple for comparison
+    azara_coordinate = tuple(azara_record[1])
+    
+    # Check if coordinates match
+    if azara_coordinate == rui_record[1]:
+        # Combine the records if they match
+        return azara_record + rui_record
+    else:
+        # Return error message if they don't match
         return "not a match"
-    return (azara_record[0], azara_record[1], rui_record[0], rui_record[1], rui_record[2])
 
 
 def clean_up(combined_record_group):
@@ -61,11 +66,18 @@ def clean_up(combined_record_group):
 
     (see HINTS.md for an example).
     """
-    report = []
+    result = []
+    # Process each record tuple (each has 5 elements)
     for record in combined_record_group:
-        cleaned_record = (record[0], record[2], record[3], record[4])
-        report.append(str(cleaned_record))
+        # Extract elements (skipping the string coordinate at index 1)
+        treasure = record[0]
+        location = record[2]
+        coord_tuple = record[3]
+        quadrant = record[4]
+        # Format the record string
+        cleaned_record = f"({treasure!r}, {location!r}, {coord_tuple!r}, {quadrant!r})"
+        result.append(cleaned_record)
     
-    return "\n".join(report) + "\n"
+    # Join all records with newlines and add final newline
+    return '\n'.join(result) + '\n'
 
-    

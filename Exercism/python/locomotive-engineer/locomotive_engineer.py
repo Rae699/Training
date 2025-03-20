@@ -7,17 +7,7 @@ def get_list_of_wagons(*args):
     :param *args: arbitrary number of wagons.
     :return: list - list of wagons.
     """
-    # APPROACH 1: Procedural Way
-    wagons_list = []
-    for wagon in args:
-        wagons_list.append(wagon)
-    return wagons_list
-
-    # APPROACH 2: Pythonic Way (one-liner)
-    # return list(args)
-    
-    # APPROACH 3: Pythonic Way (using unpacking)
-    # return [*args]
+    return list(args)
 
 
 def fix_list_of_wagons(each_wagons_id, missing_wagons):
@@ -27,24 +17,8 @@ def fix_list_of_wagons(each_wagons_id, missing_wagons):
     :param missing_wagons: list - the list of missing wagons.
     :return: list - list of wagons.
     """
-    # APPROACH 1: Procedural Way
-    # Get first two wagons
-    first, second, *rest = each_wagons_id
-    
-    # Find and remove locomotive (ID 1) from rest
-    rest_without_loco = []
-    for wagon in rest:
-        if wagon != 1:
-            rest_without_loco.append(wagon)
-        else:
-            locomotive = wagon
-    
-    # Build final list: [1, missing_wagons, rest, first_two]
-    return [locomotive] + missing_wagons + rest_without_loco + [first, second]
-
-    # APPROACH 2: Pythonic Way (one-liner)
-    # first, second, *rest = each_wagons_id
-    # return [1] + missing_wagons + [x for x in rest if x != 1] + [first, second]
+    first_wagon, second_wagon, locomotive, *remaining_wagons = each_wagons_id
+    return [locomotive] + missing_wagons + remaining_wagons + [first_wagon, second_wagon]
 
 
 def add_missing_stops(route: dict, **kwargs) -> dict:
@@ -54,16 +28,16 @@ def add_missing_stops(route: dict, **kwargs) -> dict:
     :param kwargs: arbitrary number of stops.
     :return: dict - updated route dictionary.
     """
-    # Step 1: Make a copy of the route
-    new_route = route.copy()
+    # Create a copy of the original route dict
+    updated_route = route.copy()
     
-    # Step 2: Get all values from kwargs
-    stops = list(kwargs.values())
+    # Sort the stops by their keys and extract the values
+    sorted_stops = [value for _, value in sorted(kwargs.items())]
     
-    # Step 3: Add stops to the new route
-    new_route["stops"] = stops
+    # Add stops to the updated route: Stops become the key and sorted stops becomes the value (a list of all the stops)
+    updated_route["stops"] = sorted_stops
     
-    return new_route
+    return updated_route
 
 
 def extend_route_information(route, more_route_information):
@@ -73,9 +47,10 @@ def extend_route_information(route, more_route_information):
     :param more_route_information: dict -  extra route information.
     :return: dict - extended route information.
     """
-    return {**route, **more_route_information}
-    
 
+    extended_route = {**route, **more_route_information}
+    return extended_route
+    
 
 def fix_wagon_depot(wagons_rows):
     """Fix the list of rows of wagons.
@@ -83,20 +58,11 @@ def fix_wagon_depot(wagons_rows):
     :param wagons_rows: list[list[tuple]] - the list of rows of wagons.
     :return: list[list[tuple]] - list of rows of wagons.
     """
-    # Get all red wagons from first row
-    red_wagons = wagons_rows[0]
-    
-    # Get all blue wagons from second row
-    blue_wagons = wagons_rows[1]
-    
-    # Get all orange wagons from third row
-    orange_wagons = wagons_rows[2]
-    
-    # Make new rows with one of each color
-    row1 = [red_wagons[0], blue_wagons[0], orange_wagons[0]]
-    row2 = [red_wagons[1], blue_wagons[1], orange_wagons[1]]
-    row3 = [red_wagons[2], blue_wagons[2], orange_wagons[2]]
-    
-    # Return all rows in a list
-    return [row1, row2, row3]
+    # Transpose the matrix - convert rows to columns
+    result = []
+    for column in zip(*wagons_rows):
+        result.append(list(column))
+    return result
+
+
 
