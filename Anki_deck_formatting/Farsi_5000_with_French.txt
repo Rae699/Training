@@ -1,0 +1,2431 @@
+#separator:tab
+#html:true
+"<div class='persian'>وَ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>et</div>
+[sound:pronunciation_fa_و.mp3]"	"<div class='english'>and</div>
+<br>"
+
+"<div class='persian'>بودَن ، باش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>être</div>
+[sound:pronunciation_fa_بودن (4).mp3]"	"<div class='english'>to be</div>
+<br>"
+
+"<div class='persian'>اَز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>de, depuis</div>
+[sound:pronunciation_fa_از.mp3]"	"<div class='english'>from</div>
+<br>"
+
+"<div class='persian'>به</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>à, vers</div>
+[sound:pronunciation_fa_به.mp3]"	"<div class='english'>to</div>
+<br>"
+
+"<div class='persian'>که</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>que, qui</div>
+[sound:pronunciation_fa_كه.mp3]"	"<div class='english'>that, which</div>
+<br>"
+
+"<div class='persian'>اين</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ce, ceci, cela</div>
+[sound:pronunciation_fa_اين.mp3]"	"<div class='english'>this, it</div>
+<br>"
+
+"<div class='persian'>دَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>dans, en</div>
+[sound:pronunciation_fa_در.mp3]"	"<div class='english'>in</div>
+<br>"
+
+"<div class='persian'>با</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>avec</div>
+[sound:pronunciation_fa_با.mp3]"	"<div class='english'>with</div>
+<br>"
+
+"<div class='persian'>شُدَن ، شو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>devenir</div>
+[sound:pronunciation_fa_شدن-f9129a4d28f171145d78e170839b124043d081eb.mp3]"	"<div class='english'>to become</div>
+<br>"
+
+"<div class='persian'>ِبَراى</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>pour</div>
+[sound:pronunciation_fa_بَراى.mp3]"	"<div class='english'>for</div>
+<br>"
+
+"<div class='persian'>خود</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>soi-même</div>
+[sound:pronunciation_fa_خود.mp3]"	"<div class='english'>self</div>
+<br>"
+
+"<div class='persian'>یِک</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>un, une</div>
+[sound:pronunciation_fa_یک.mp3]"	"<div class='english'>one</div>
+<br>"
+
+"<div class='persian'>آن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ce, cela, celui-là</div>
+[sound:pronunciation_fa_آن.mp3]"	"<div class='english'>that, which</div>
+<br>"
+
+"<div class='persian'>خواستن ، خواه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>vouloir, désirer</div>
+[sound:pronunciation_fa_خواستن (1).mp3]"	"<div class='english'>to want</div>
+<br>"
+
+"<div class='persian'>تا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>jusqu'à</div>
+[sound:pronunciation_fa_تا.mp3]"	"<div class='english'>until</div>
+<br>"
+
+"<div class='persian'>داشتَن ، دار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>avoir</div>
+[sound:pronunciation_fa_داشتن (1).mp3]"	"<div class='english'>to have</div>
+<br>"
+
+"<div class='persian'>کَردَن ، كَن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>faire</div>
+[sound:pronunciation_fa_کردن.mp3]"	"<div class='english'>to do</div>
+<br>"
+
+"<div class='persian'>اَوَّل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>premier</div>
+[sound:pronunciation_fa_اوّل.mp3]"	"<div class='english'>first</div>
+<br>"
+
+"<div class='persian'>بَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sur, fruit, côté</div>
+[sound:pronunciation_fa_بر.mp3]"	"<div class='english'>on, fruit, side</div>
+<br>"
+
+"<div class='persian'>سال</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>année, an</div>
+[sound:pronunciation_fa_سال.mp3]"	"<div class='english'>year</div>
+<br>"
+
+"<div class='persian'>تَوانِستَن ، تَوان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>pouvoir, être capable</div>
+[sound:pronunciation_fa_توانستن.mp3]"	"<div class='english'>to be able</div>
+<br>"
+
+"<div class='persian'>رَسیدَن ، رَس</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>arriver, atteindre</div>
+[sound:pronunciation_fa_رسیدن.mp3]"	"<div class='english'>to arrive, reach</div>
+<br>"
+
+"<div class='persian'>پَس</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>alors, donc</div>
+[sound:pronunciation_fa_پس.mp3]"	"<div class='english'>then, so</div>
+<br>"
+
+"<div class='persian'>هَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>chaque</div>
+[sound:pronunciation_fa_هر.mp3]"	"<div class='english'>each</div>
+<br>"
+
+"<div class='persian'>کار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>travail</div>
+[sound:pronunciation_fa_کار.mp3]"	"<div class='english'>work</div>
+<br>"
+
+"<div class='persian'>بیش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>plus</div>
+[sound:pronunciation_fa_بیش.mp3]"	"<div class='english'>more</div>
+<br>"
+
+"<div class='persian'>دیگَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>autre, encore</div>
+[sound:pronunciation_fa_دیگر.mp3]"	"<div class='english'>other, again</div>
+<br>"
+
+"<div class='persian'>روز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>jour</div>
+[sound:pronunciation_fa_روز.mp3]"	"<div class='english'>day</div>
+<br>"
+
+"<div class='persian'>اَمّا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mais</div>
+[sound:pronunciation_fa_امّا.mp3]"	"<div class='english'>but</div>
+<br>"
+
+"<div class='persian'>ما</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>nous</div>
+[sound:pronunciation_fa_ما.mp3]"	"<div class='english'>we</div>
+<br>"
+
+"<div class='persian'>کِشوَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>pays</div>
+[sound:pronunciation_fa_کشور.mp3]"	"<div class='english'>country</div>
+<br>"
+
+"<div class='persian'>گِرِفتَن ، گیر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>prendre</div>
+[sound:pronunciation_fa_گرفتن.mp3]"	"<div class='english'>to take</div>
+<br>"
+
+"<div class='persian'>پیش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>avant, devant, chez</div>
+[sound:pronunciation_fa_پیش.mp3]"	"<div class='english'>before, forward, by</div>
+<br>"
+
+"<div class='persian'>هَم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>aussi, également</div>
+[sound:pronunciation_fa_هم.mp3]"	"<div class='english'>both, also</div>
+<br>"
+
+"<div class='persian'>گُفتَن ، گو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>dire</div>
+[sound:pronunciation_fa_گفتن.mp3]"	"<div class='english'>to say</div>
+<br>"
+
+"<div class='persian'>بُزُرگ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>grand</div>
+[sound:pronunciation_fa_بزرگ.mp3]"	"<div class='english'>large</div>
+<br>"
+
+"<div class='persian'>دَو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>deux; course</div>
+[sound:pronunciation_fa_دو.mp3]"	"<div class='english'>two; running</div>
+<br>"
+
+"<div class='persian'>شَهر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ville</div>
+[sound:pronunciation_fa_شهر.mp3]"	"<div class='english'>city</div>
+<br>"
+
+"<div class='persian'>یا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ou</div>
+[sound:pronunciation_fa_یا.mp3]"	"<div class='english'>or</div>
+<br>"
+
+"<div class='persian'>دادَن ، دَه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>donner</div>
+[sound:pronunciation_fa_دادن.mp3]"	"<div class='english'>to give</div>
+<br>"
+
+"<div class='persian'>اِیران</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>Iran</div>
+[sound:pronunciation_fa_ایران.mp3]"	"<div class='english'>Iran</div>
+<br>"
+
+"<div class='persian'>نیز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>aussi</div>
+[sound:pronunciation_fa_نیز.mp3]"	"<div class='english'>also</div>
+<br>"
+
+"<div class='persian'>مِیان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>entre</div>
+[sound:pronunciation_fa_میان.mp3]"	"<div class='english'>between</div>
+<br>"
+
+"<div class='persian'>صورَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>visage</div>
+[sound:pronunciation_fa_صورت.mp3]"	"<div class='english'>face</div>
+<br>"
+
+"<div class='persian'>راه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>chemin, route</div>
+[sound:pronunciation_fa_راه.mp3]"	"<div class='english'>way, road</div>
+<br>"
+
+"<div class='persian'>داشته</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>possession, eu</div>
+[sound:pronunciation_fa_داشته.mp3]"	"<div class='english'>possession, had</div>
+<br>"
+
+"<div class='persian'>کُند</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>fait, lent</div>
+[sound:pronunciation_fa_کند.mp3]"	"<div class='english'>does, slow</div>
+<br>"
+
+"<div class='persian'>داده</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>donné, donnée</div>
+[sound:pronunciation_fa_داده.mp3]"	"<div class='english'>given, datum</div>
+<br>"
+
+"<div class='persian'>بِسیار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>très</div>
+[sound:pronunciation_fa_بسیار.mp3]"	"<div class='english'>very</div>
+<br>"
+
+"<div class='persian'>قَبل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>avant</div>
+[sound:pronunciation_fa_قبل.mp3]"	"<div class='english'>before</div>
+<br>"
+
+"<div class='persian'>مُدَّت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>durée, période</div>
+[sound:pronunciation_fa_مدت.mp3]"	"<div class='english'>term, period</div>
+<br>"
+
+"<div class='persian'>او</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>il, elle</div>
+[sound:pronunciation_fa_او.mp3]"	"<div class='english'>he, she</div>
+<br>"
+
+"<div class='persian'>نَظَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>opinion, avis</div>
+[sound:pronunciation_fa_نظر.mp3]"	"<div class='english'>opinion</div>
+<br>"
+
+"<div class='persian'>مَردُم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>gens, peuple</div>
+[sound:pronunciation_fa_مردم.mp3]"	"<div class='english'>people</div>
+<br>"
+
+"<div class='persian'>تَنها</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>seul, solitaire</div>
+[sound:pronunciation_fa_تنها.mp3]"	"<div class='english'>only, lonely</div>
+<br>"
+
+"<div class='persian'>هَمه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>tout, chaque</div>
+[sound:pronunciation_fa_همه.mp3]"	"<div class='english'>every</div>
+<br>"
+
+"<div class='persian'>مُهِم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>important</div>
+[sound:pronunciation_fa_مهم.mp3]"	"<div class='english'>important</div>
+<br>"
+
+"<div class='persian'>کَم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>peu, bas</div>
+[sound:pronunciation_fa_کم.mp3]"	"<div class='english'>low, little</div>
+<br>"
+
+"<div class='persian'>نَزدیک</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>proche</div>
+[sound:pronunciation_fa_نزدیک.mp3]"	"<div class='english'>close</div>
+<br>"
+
+"<div class='persian'>عُنوان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>titre</div>
+[sound:pronunciation_fa_عنوان.mp3]"	"<div class='english'>title</div>
+<br>"
+
+"<div class='persian'>مَورِد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>cas</div>
+[sound:pronunciation_fa_مورد.mp3]"	"<div class='english'>case</div>
+<br>"
+
+"<div class='persian'>بَین</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>entre</div>
+[sound:pronunciation_fa_بین.mp3]"	"<div class='english'>between</div>
+<br>"
+
+"<div class='persian'>تَمام</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>tout, entier</div>
+[sound:pronunciation_fa_تمام.mp3]"	"<div class='english'>whole, all</div>
+<br>"
+
+"<div class='persian'>دَست</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>main</div>
+[sound:pronunciation_fa_دست.mp3]"	"<div class='english'>hand</div>
+<br>"
+
+"<div class='persian'>چَند</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>plusieurs</div>
+[sound:pronunciation_fa_چند.mp3]"	"<div class='english'>several</div>
+<br>"
+
+"<div class='persian'>قَرار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>accord</div>
+[sound:pronunciation_fa_قرار.mp3]"	"<div class='english'>agreement</div>
+<br>"
+
+"<div class='persian'>هَمین</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>le même, celui-ci</div>
+[sound:pronunciation_fa_همین.mp3]"	"<div class='english'>the same, this very</div>
+<br>"
+
+"<div class='persian'>گُروه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>groupe</div>
+[sound:pronunciation_fa_گروه.mp3]"	"<div class='english'>group</div>
+<br>"
+
+"<div class='persian'>بَرنامه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>programme, plan</div>
+[sound:pronunciation_fa_برنامه.mp3]"	"<div class='english'>program, plan</div>
+<br>"
+
+"<div class='persian'>بَخش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>section, partie</div>
+[sound:pronunciation_fa_بخش.mp3]"	"<div class='english'>section, part</div>
+<br>"
+
+"<div class='persian'>وُجود</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>existence</div>
+[sound:pronunciation_fa_وجود.mp3]"	"<div class='english'>existence</div>
+<br>"
+
+"<div class='persian'>مَسئَله</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>problème</div>
+[sound:pronunciation_fa_مسئله.mp3]"	"<div class='english'>problem</div>
+<br>"
+
+"<div class='persian'>تَوَجُّه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>attention</div>
+[sound:pronunciation_fa_توجه.mp3]"	"<div class='english'>attention</div>
+<br>"
+
+"<div class='persian'>اَمر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>affaire, ordre</div>
+[sound:pronunciation_fa_امر.mp3]"	"<div class='english'>affair, order</div>
+<br>"
+
+"<div class='persian'>آگَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>si</div>
+[sound:pronunciation_fa_اگر.mp3]"	"<div class='english'>if</div>
+<br>"
+
+"<div class='persian'>گُذَشته</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>passé</div>
+[sound:pronunciation_fa_گذشته.mp3]"	"<div class='english'>past</div>
+<br>"
+
+"<div class='persian'>ماه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mois, lune</div>
+[sound:pronunciation_fa_ماه.mp3]"	"<div class='english'>month, moon</div>
+<br>"
+
+"<div class='persian'>طور</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>manière, façon</div>
+[sound:pronunciation_fa_طور.mp3]"	"<div class='english'>manner, way</div>
+<br>"
+
+"<div class='persian'>ِبِدون</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sans</div>
+[sound:pronunciation_fa_بدون.mp3]"	"<div class='english'>without</div>
+<br>"
+
+"<div class='persian'>رو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sur, visage</div>
+[sound:pronunciation_fa_رو.mp3]"	"<div class='english'>on, face</div>
+<br>"
+
+"<div class='persian'>زَمان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>temps</div>
+[sound:pronunciation_fa_زمان.mp3]"	"<div class='english'>time</div>
+<br>"
+
+"<div class='persian'>هیچ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>aucun, rien</div>
+[sound:pronunciation_fa_هیچ.mp3]"	"<div class='english'>none</div>
+<br>"
+
+"<div class='persian'>مُشکِل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>problème</div>
+[sound:pronunciation_fa_مشکل.mp3]"	"<div class='english'>problem</div>
+<br>"
+
+"<div class='persian'>اِسلامی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>islamique</div>
+[sound:pronunciation_fa_اسلامی.mp3]"	"<div class='english'>Islamic</div>
+<br>"
+
+"<div class='persian'>دانِستَن ، دان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>savoir</div>
+[sound:pronunciation_fa_دانستن.mp3]"	"<div class='english'>to know</div>
+<br>"
+
+"<div class='persian'>رَئِیس</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>chef, directeur</div>
+[sound:pronunciation_fa_رئيس.mp3]"	"<div class='english'>head</div>
+<br>"
+
+"<div class='persian'>بَهتَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>meilleur</div>
+[sound:pronunciation_fa_بهتر.mp3]"	"<div class='english'>better</div>
+<br>"
+
+"<div class='persian'>دَولَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>gouvernement</div>
+[sound:pronunciation_fa_دولت.mp3]"	"<div class='english'>government</div>
+<br>"
+
+"<div class='persian'>جُمله</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>phrase, total</div>
+[sound:pronunciation_fa_جمله.mp3]"	"<div class='english'>sentence, total</div>
+<br>"
+
+"<div class='persian'>نَتیجه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>résultat</div>
+[sound:pronunciation_fa_نتیجه.mp3]"	"<div class='english'>result</div>
+<br>"
+
+"<div class='persian'>آمَدَن، آ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>venir</div>
+[sound:pronunciation_fa_آمدن.mp3]"	"<div class='english'>to come</div>
+<br>"
+
+"<div class='persian'>سو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>côté</div>
+[sound:pronunciation_fa_سو.mp3]"	"<div class='english'>side</div>
+<br>"
+
+"<div class='persian'>یَعنی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>c'est-à-dire, signifiant</div>
+[sound:pronunciation_fa_یعنی.mp3]"	"<div class='english'>namely, meaning</div>
+<br>"
+
+"<div class='persian'>بار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>fois, tour, charge</div>
+[sound:pronunciation_fa_بار.mp3]"	"<div class='english'>turn, time, load</div>
+<br>"
+
+"<div class='persian'>مَنطَقه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>région</div>
+[sound:pronunciation_fa_منطقه.mp3]"	"<div class='english'>region</div>
+<br>"
+
+"<div class='persian'>نَفَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>personne</div>
+[sound:pronunciation_fa_نفر.mp3]"	"<div class='english'>person</div>
+<br>"
+
+"<div class='persian'>یافتَن ، ياب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>trouver</div>
+[sound:pronunciation_fa_یافتن.mp3]"	"<div class='english'>to find</div>
+<br>"
+
+"<div class='persian'>مُختَلِف</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>différent</div>
+[sound:pronunciation_fa_مختلف.mp3]"	"<div class='english'>different</div>
+<br>"
+
+"<div class='persian'>بالا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>haut, élevé</div>
+[sound:pronunciation_fa_بالا.mp3]"	"<div class='english'>top, high</div>
+<br>"
+
+"<div class='persian'>مَن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>je, moi</div>
+[sound:pronunciation_fa_من.mp3]"	"<div class='english'>I, me</div>
+"<div class='persian'>سِیاسی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>politique</div>
+[sound:pronunciation_fa_سیاسی.mp3]"	"<div class='english'>political</div>
+<br>"
+
+"<div class='persian'>جَهان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>monde</div>
+[sound:pronunciation_fa_جهان.mp3]"	"<div class='english'>world</div>
+<br>"
+
+"<div class='persian'>رابِطه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>relation</div>
+[sound:pronunciation_fa_رابطه.mp3]"	"<div class='english'>relation</div>
+<br>"
+
+"<div class='persian'>شَرط</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>condition</div>
+[sound:pronunciation_fa_شرط.mp3]"	"<div class='english'>condition</div>
+<br>"
+
+"<div class='persian'>آمریکا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>Amérique</div>
+[sound:pronunciation_fa_آمریکا.mp3]"	"<div class='english'>America</div>
+<br>"
+
+"<div class='persian'>جَدید</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>nouveau</div>
+[sound:pronunciation_fa_جدید.mp3]"	"<div class='english'>new</div>
+<br>"
+
+"<div class='persian'>عَلی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>Ali</div>
+[sound:pronunciation_fa_علی.mp3]"	"<div class='english'>Ali</div>
+<br>"
+
+"<div class='persian'>چه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>quoi</div>
+[sound:pronunciation_fa_چه.mp3]"	"<div class='english'>what</div>
+<br>"
+
+"<div class='persian'>اَساس</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>base, fondement</div>
+[sound:pronunciation_fa_اساس.mp3]"	"<div class='english'>basis</div>
+<br>"
+
+"<div class='persian'>آوَردَن ، آوَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>apporter</div>
+[sound:pronunciation_fa_آوردن.mp3]"	"<div class='english'>to bring</div>
+<br>"
+
+"<div class='persian'>حال</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>état, condition</div>
+[sound:pronunciation_fa_حال.mp3]"	"<div class='english'>condition, state</div>
+<br>"
+
+"<div class='persian'>نِشان دادَن ، دار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>montrer</div>
+[sound:pronunciation_fa_نشان_دادن.mp3]"	"<div class='english'>to show</div>
+<br>"
+
+"<div class='persian'>وَی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>il, elle</div>
+[sound:pronunciation_fa_وی.mp3]"	"<div class='english'>he, she</div>
+<br>"
+
+"<div class='persian'>زَمینه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>contexte, domaine</div>
+[sound:pronunciation_fa_زمینه.mp3]"	"<div class='english'>background, field</div>
+<br>"
+
+"<div class='persian'>بَعد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>après, ensuite</div>
+[sound:pronunciation_fa_بعد.mp3]"	"<div class='english'>then, after</div>
+<br>"
+
+"<div class='persian'>سازمان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>organisation</div>
+[sound:pronunciation_fa_سازمان.mp3]"	"<div class='english'>organization</div>
+<br>"
+
+"<div class='persian'>فَرد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>individu</div>
+[sound:pronunciation_fa_فرد.mp3]"	"<div class='english'>individual</div>
+<br>"
+
+"<div class='persian'>تیم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>équipe</div>
+[sound:pronunciation_fa_تیم.mp3]"	"<div class='english'>team</div>
+<br>"
+
+"<div class='persian'>جَوان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>jeune</div>
+[sound:pronunciation_fa_جوان.mp3]"	"<div class='english'>young</div>
+<br>"
+
+"<div class='persian'>مِلّی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>national</div>
+[sound:pronunciation_fa_ملی.mp3]"	"<div class='english'>national</div>
+<br>"
+
+"<div class='persian'>شورا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>conseil</div>
+[sound:pronunciation_fa_شورا.mp3]"	"<div class='english'>council</div>
+<br>"
+
+"<div class='persian'>اَلبَتّه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>bien sûr</div>
+[sound:pronunciation_fa_البتّه.mp3]"	"<div class='english'>of course</div>
+<br>"
+
+"<div class='persian'>دُوَّم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>deuxième</div>
+[sound:pronunciation_fa_دوم.mp3]"	"<div class='english'>second (adj.)</div>
+<br>"
+
+"<div class='persian'>دَلیل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>raison</div>
+[sound:pronunciation_fa_دلیل.mp3]"	"<div class='english'>reason</div>
+<br>"
+
+"<div class='persian'>رَفتَن ، رو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>aller</div>
+[sound:pronunciation_fa_رفتن.mp3]"	"<div class='english'>to go</div>
+<br>"
+
+"<div class='persian'>نَقش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>rôle</div>
+[sound:pronunciation_fa_نقش.mp3]"	"<div class='english'>role</div>
+<br>"
+
+"<div class='persian'>نام</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>nom</div>
+[sound:pronunciation_fa_نام.mp3]"	"<div class='english'>name</div>
+<br>"
+
+"<div class='persian'>وَلی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mais</div>
+[sound:pronunciation_fa_ولی.mp3]"	"<div class='english'>but</div>
+<br>"
+
+"<div class='persian'>دَوره</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>période</div>
+[sound:pronunciation_fa_دوره.mp3]"	"<div class='english'>period</div>
+<br>"
+
+"<div class='persian'>وَزیر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ministre</div>
+[sound:pronunciation_fa_وزیر.mp3]"	"<div class='english'>minister</div>
+<br>"
+
+"<div class='persian'>اِستِفاده</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>utilisation, usage</div>
+[sound:pronunciation_fa_استفاده.mp3]"	"<div class='english'>use, usage</div>
+<br>"
+
+"<div class='persian'>آقا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>monsieur</div>
+[sound:pronunciation_fa_آقا.mp3]"	"<div class='english'>gentleman, mister</div>
+<br>"
+
+"<div class='persian'>حَرِکَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mouvement</div>
+[sound:pronunciation_fa_حرکت.mp3]"	"<div class='english'>motion, movement</div>
+<br>"
+
+"<div class='persian'>قَرار گِرِفتَن ، گیر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>être situé</div>
+[sound:pronunciation_fa_قرار_گرفتن.mp3]"	"<div class='english'>to be located</div>
+<br>"
+
+"<div class='persian'>شَرکَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>entreprise, société</div>
+[sound:pronunciation_fa_شرکت.mp3]"	"<div class='english'>company</div>
+<br>"
+
+"<div class='persian'>طَرح</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>design, conception</div>
+[sound:pronunciation_fa_طرح.mp3]"	"<div class='english'>design</div>
+<br>"
+
+"<div class='persian'>تِهران</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>Téhéran</div>
+[sound:pronunciation_fa_تهران.mp3]"	"<div class='english'>Tehran</div>
+<br>"
+
+"<div class='persian'>بَرخی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>quelques, certains</div>
+[sound:pronunciation_fa_برخی.mp3]"	"<div class='english'>some</div>
+<br>"
+
+"<div class='persian'>سه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>trois</div>
+[sound:pronunciation_fa_سه.mp3]"	"<div class='english'>three</div>
+<br>"
+
+"<div class='persian'>دَرحالِ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>en train de</div>
+[sound:pronunciation_fa_درحال.mp3]"	"<div class='english'>in the process of</div>
+<br>"
+
+"<div class='persian'>حُدود</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>limites, environ</div>
+[sound:pronunciation_fa_حدود.mp3]"	"<div class='english'>limits, range, approximately</div>
+<br>"
+
+"<div class='persian'>اِیجاد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>création</div>
+[sound:pronunciation_fa_ایجاد.mp3]"	"<div class='english'>creation</div>
+<br>"
+
+"<div class='persian'>کس</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>personne</div>"	"<div class='english'>person (no audio)</div>
+<br>"
+
+"<div class='persian'>بُردَن ، بُر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>emporter, prendre</div>
+[sound:pronunciation_fa_بردن.mp3]"	"<div class='english'>to take</div>
+<br>"
+
+"<div class='persian'>شُما</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>vous</div>
+[sound:pronunciation_fa_شما.mp3]"	"<div class='english'>you</div>
+<br>"
+
+"<div class='persian'>اِقتِصادی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>économique</div>
+[sound:pronunciation_fa_اقتصادی.mp3]"	"<div class='english'>economic</div>
+<br>"
+
+"<div class='persian'>هِزار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mille</div>
+[sound:pronunciation_fa_هزار.mp3]"	"<div class='english'>thousand</div>
+<br>"
+
+"<div class='persian'>حُضور</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>présence</div>
+[sound:pronunciation_fa_حضور.mp3]"	"<div class='english'>presence</div>
+<br>"
+
+"<div class='persian'>نیرو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>force, puissance</div>
+[sound:pronunciation_fa_نیرو.mp3]"	"<div class='english'>power, force</div>
+<br>"
+
+"<div class='persian'>عُضو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>membre</div>
+[sound:pronunciation_fa_عضو.mp3]"	"<div class='english'>member</div>
+<br>"
+
+"<div class='persian'>فَعالِیَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>activité</div>
+[sound:pronunciation_fa_فعالیت.mp3]"	"<div class='english'>activity</div>
+<br>"
+
+"<div class='persian'>تَن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>corps; tonne</div>
+[sound:pronunciation_fa_تن.mp3]"	"<div class='english'>body; ton</div>
+<br>"
+
+"<div class='persian'>اِشاره</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>indication, signe</div>
+[sound:pronunciation_fa_اشاره.mp3]"	"<div class='english'>indication, hint</div>
+<br>"
+
+"<div class='persian'>چون</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>parce que, comme</div>
+[sound:pronunciation_fa_چون.mp3]"	"<div class='english'>because, like</div>
+<br>"
+
+"<div class='persian'>حاضِر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>présent, prêt</div>
+[sound:pronunciation_fa_حاضر.mp3]"	"<div class='english'>present, ready</div>
+<br>"
+
+"<div class='persian'>دَرصَد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>pour cent</div>
+[sound:pronunciation_fa_درصد.mp3]"	"<div class='english'>percent</div>
+<br>"
+
+"<div class='persian'>حَتّی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>même</div>
+[sound:pronunciation_fa_حتی.mp3]"	"<div class='english'>even</div>
+<br>"
+
+"<div class='persian'>مُحَمَّد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>Mohammed (PBSL)</div>
+[sound:pronunciation_fa_محمد.mp3]"	"<div class='english'>Mohammad (PBUH)</div>
+<br>"
+
+"<div class='persian'>وُجودداشتَن ، دار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>exister</div>
+[sound:pronunciation_fa_وجودداشتن.mp3]"	"<div class='english'>to exist</div>
+<br>"
+
+"<div class='persian'>پایان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>fin</div>
+[sound:pronunciation_fa_پایان.mp3]"	"<div class='english'>end</div>
+<br>"
+
+"<div class='persian'>هَمچُنین</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>aussi, également</div>
+[sound:pronunciation_fa_همچنین.mp3]"	"<div class='english'>so, also</div>
+<br>"
+
+"<div class='persian'>قانون</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>loi</div>
+[sound:pronunciation_fa_قانون.mp3]"	"<div class='english'>law</div>
+<br>"
+
+"<div class='persian'>جا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>lieu, endroit</div>
+[sound:pronunciation_fa_جا.mp3]"	"<div class='english'>place</div>
+<br>"
+
+"<div class='persian'>مُمکِن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>possible</div>
+[sound:pronunciation_fa_ممکن.mp3]"	"<div class='english'>possible</div>
+<br>"
+
+"<div class='persian'>هَدَف</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>but, objectif, cible</div>
+[sound:pronunciation_fa_هدف.mp3]"	"<div class='english'>goal, target</div>
+<br>"
+
+"<div class='persian'>اَنجام دادَن ، دَه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>accomplir, réaliser</div>
+[sound:pronunciation_fa_انجام_دادن.mp3]"	"<div class='english'>to accomplish</div>
+<br>"
+
+"<div class='persian'>بُزُرگی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>grandeur, magnitude</div>
+[sound:pronunciation_fa_بزرگی.mp3]"	"<div class='english'>magnitude</div>
+<br>"
+
+"<div class='persian'>جامِعه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>société</div>
+[sound:pronunciation_fa_جامعه.mp3]"	"<div class='english'>society</div>
+<br>"
+
+"<div class='persian'>حَق</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>droit</div>
+[sound:pronunciation_fa_حق.mp3]"	"<div class='english'>right</div>
+<br>"
+
+"<div class='persian'>اَثَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>effet, marque</div>
+[sound:pronunciation_fa_اثر.mp3]"	"<div class='english'>mark, effect</div>
+<br>"
+
+"<div class='persian'>بَحث</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>discussion, débat</div>
+[sound:pronunciation_fa_بحث.mp3]"	"<div class='english'>discussion</div>
+<br>"
+
+"<div class='persian'>اَرزِش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>valeur</div>
+[sound:pronunciation_fa_ارزش.mp3]"	"<div class='english'>value</div>
+<br>"
+
+"<div class='persian'>مَوضوع</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sujet, thème</div>
+[sound:pronunciation_fa_موضوع.mp3]"	"<div class='english'>subject, topic</div>
+<br>"
+
+"<div class='persian'>طَرَف</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>côté</div>
+[sound:pronunciation_fa_طرف.mp3]"	"<div class='english'>side</div>
+<br>"
+
+"<div class='persian'>نُه ، نَه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>non/ne pas/ni; neuf</div>
+[sound:pronunciation_fa_نه.mp3]"	"<div class='english'>no/not/neither/nor; nine</div>
+<br>"
+
+"<div class='persian'>آب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>eau</div>
+[sound:pronunciation_fa_آب.mp3]"	"<div class='english'>water</div>
+<br>"
+
+"<div class='persian'>آیَنده</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>futur, avenir</div>
+[sound:pronunciation_fa_آینده.mp3]"	"<div class='english'>future</div>
+<br>"
+
+"<div class='persian'>نَوع</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>type, genre</div>
+[sound:pronunciation_fa_نوع.mp3]"	"<div class='english'>type</div>
+<br>"
+
+"<div class='persian'>مَقام</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>rang, officiel</div>
+[sound:pronunciation_fa_مقام.mp3]"	"<div class='english'>rank, official</div>
+<br>"
+
+"<div class='persian'>زِیادی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>excessif</div>
+[sound:pronunciation_fa_زیادی.mp3]"	"<div class='english'>excessive</div>
+<br>"
+
+"<div class='persian'>جَهَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>direction, raison</div>
+[sound:pronunciation_fa_جهت.mp3]"	"<div class='english'>direction, reason</div>
+<br>"
+
+"<div class='persian'>اِجرا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mise en œuvre, exécution</div>
+[sound:pronunciation_fa_اجرا.mp3]"	"<div class='english'>implementation</div>
+<br>"
+
+"<div class='persian'>اَصلی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>principal</div>
+[sound:pronunciation_fa_اصلی.mp3]"	"<div class='english'>main</div>
+<br>"
+
+"<div class='persian'>مَجلِس</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>parlement</div>
+[sound:pronunciation_fa_مجلس.mp3]"	"<div class='english'>parliament</div>
+<br>"
+
+"<div class='persian'>آخَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>final, dernier</div>
+[sound:pronunciation_fa_آخر.mp3]"	"<div class='english'>final</div>
+<br>"
+
+"<div class='persian'>عَمَل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>action, opération</div>
+[sound:pronunciation_fa_عمل.mp3]"	"<div class='english'>action, operation</div>
+<br>"
+
+"<div class='persian'>زِندِگی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>vie</div>
+[sound:pronunciation_fa_زندگی.mp3]"	"<div class='english'>life</div>
+<br>"
+
+"<div class='persian'>چِنین</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>tel, ainsi</div>
+[sound:pronunciation_fa_چنین.mp3]"	"<div class='english'>such</div>
+<br>"
+
+"<div class='persian'>رِساندَن ، رِسان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>livrer, délivrer</div>
+[sound:pronunciation_fa_رساندن.mp3]"	"<div class='english'>to deliver</div>
+<br>"
+
+"<div class='persian'>نِظام</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>système</div>
+[sound:pronunciation_fa_نظام.mp3]"	"<div class='english'>system</div>
+<br>"
+
+"<div class='persian'>گُذاشتَن ، گُذار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mettre, laisser</div>
+[sound:pronunciation_fa_گذاشتن.mp3]"	"<div class='english'>to put, to leave</div>
+<br>"
+
+"<div class='persian'>شَکل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>forme</div>
+[sound:pronunciation_fa_شکل.mp3]"	"<div class='english'>shape</div>
+<br>"
+
+"<div class='persian'>نِسبَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>relation, rapport</div>
+[sound:pronunciation_fa_نسبت.mp3]"	"<div class='english'>relation</div>
+<br>"
+
+"<div class='persian'>دُنیا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>monde</div>
+[sound:pronunciation_fa_دنیا.mp3]"	"<div class='english'>world</div>
+<br>"
+
+"<div class='persian'>خارِجی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>étranger</div>
+[sound:pronunciation_fa_خارجی.mp3]"	"<div class='english'>foreign</div>
+<br>"
+
+"<div class='persian'>هَمراه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ensemble, avec</div>
+[sound:pronunciation_fa_همراه.mp3]"	"<div class='english'>together, along</div>
+<br>"
+
+"<div class='persian'>کِتاب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>livre</div>
+[sound:pronunciation_fa_کتاب.mp3]"	"<div class='english'>book</div>
+<br>"
+
+"<div class='persian'>اِمروز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>aujourd'hui</div>
+[sound:pronunciation_fa_امروز.mp3]"	"<div class='english'>today</div>
+<br>"
+
+"<div class='persian'>دیدَن ، بين</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>voir</div>
+[sound:pronunciation_fa_دیدن.mp3]"	"<div class='english'>to see</div>
+<br>"
+
+"<div class='persian'>جَهانی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mondial, global</div>
+[sound:pronunciation_fa_جهانی.mp3]"	"<div class='english'>global</div>
+<br>"
+
+"<div class='persian'>توسَعه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>expansion, développement</div>
+[sound:pronunciation_fa_توسعه.mp3]"	"<div class='english'>expansion, development</div>
+<br>"
+
+"<div class='persian'>ویژه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>spécial</div>
+[sound:pronunciation_fa_ویژه.mp3]"	"<div class='english'>special</div>
+<br>"
+
+"<div class='persian'>اَنجام</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>performance, exécution</div>
+[sound:pronunciation_fa_انجام.mp3]"	"<div class='english'>performance</div>
+<br>"
+
+"<div class='persian'>مَرکَز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>centre</div>
+[sound:pronunciation_fa_مرکز.mp3]"	"<div class='english'>center</div>
+<br>"
+
+"<div class='persian'>اِعلام</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>annonce, déclaration</div>
+[sound:pronunciation_fa_اعلام.mp3]"	"<div class='english'>announcement</div>
+<br>"
+
+"<div class='persian'>اِطِّلاع</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>information</div>
+[sound:pronunciation_fa_اطلاع.mp3]"	"<div class='english'>information</div>
+<br>"
+
+"<div class='persian'>داخِل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>intérieur, dedans</div>
+[sound:pronunciation_fa_داخل.mp3]"	"<div class='english'>inside</div>
+<br>"
+
+"<div class='persian'>پَرداختَن ، پَرداز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>payer, s'engager dans</div>
+[sound:pronunciation_fa_پرداختن.mp3]"	"<div class='english'>to pay, to engage in</div>
+<br>"
+
+"<div class='persian'>کامِلاً</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>complètement</div>
+[sound:pronunciation_fa_کاملا.mp3]"	"<div class='english'>completely</div>
+<br>"
+
+"<div class='persian'>گُفته</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>dit, parole</div>
+[sound:pronunciation_fa_گفته (1).mp3]"	"<div class='english'>saying</div>
+<br>"
+
+"<div class='persian'>زَن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>femme, épouse</div>
+[sound:pronunciation_fa_زن.mp3]"	"<div class='english'>woman, wife</div>
+<br>"
+
+"<div class='persian'>گُزارِش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>rapport</div>
+[sound:pronunciation_fa_گزارش.mp3]"	"<div class='english'>report</div>
+<br>"
+
+"<div class='persian'>سَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>tête, secret</div>
+[sound:pronunciation_fa_سر.mp3]"	"<div class='english'>head, secret</div>
+<br>"
+
+"<div class='persian'>دَست دادَن ، دَه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>serrer la main, perdre</div>
+[sound:pronunciation_fa_دست_دادن.mp3]"	"<div class='english'>to shake hands, to lose</div>
+<br>"
+
+"<div class='persian'>هَنوز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>encore, toujours</div>
+[sound:pronunciation_fa_هنوز.mp3]"	"<div class='english'>still, yet</div>
+<br>"
+
+"<div class='persian'>جُمهوری</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>république</div>
+[sound:pronunciation_fa_جمهوری.mp3]"	"<div class='english'>republic</div>
+<br>"
+
+"<div class='persian'>تَغییر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>changement</div>
+[sound:pronunciation_fa_میزان_تغییر.mp3]"	"<div class='english'>change (near audio)</div>
+<br>"
+
+"<div class='persian'>تِعداد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>nombre</div>
+[sound:pronunciation_fa_تعداد.mp3]"	"<div class='english'>number</div>
+<br>"
+
+"<div class='persian'>میلِیون</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>million</div>
+[sound:pronunciation_fa_میلیون.mp3]"	"<div class='english'>million</div>
+<br>"
+
+"<div class='persian'>سِیاسَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>politique</div>
+[sound:pronunciation_fa_سیاست.mp3]"	"<div class='english'>policy, politics</div>
+<br>"
+
+"<div class='persian'>بَررَسی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>vérification, examen</div>
+[sound:pronunciation_fa_بررسی.mp3]"	"<div class='english'>check, verification</div>
+<br>"
+
+"<div class='persian'>اِقدام</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>action</div>
+[sound:pronunciation_fa_اقدام.mp3]"	"<div class='english'>action</div>
+<br>"
+
+"<div class='persian'>اَفزایِش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>augmentation</div>
+[sound:pronunciation_fa_افزایش.mp3]"	"<div class='english'>increase</div>
+<br>"
+
+"<div class='persian'>بَرابَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>égal, opposé</div>
+[sound:pronunciation_fa_برابر.mp3]"	"<div class='english'>equal, opposite</div>
+<br>"
+
+"<div class='persian'>دَرباره</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>à propos de</div>
+[sound:pronunciation_fa_درباره.mp3]"	"<div class='english'>about</div>
+<br>"
+
+"<div class='persian'>گونه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>type, espèce, joue</div>
+[sound:pronunciation_fa_گونه.mp3]"	"<div class='english'>type, species, cheek</div>
+<br>"
+
+"<div class='persian'>سِوَّم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>troisième</div>
+[sound:pronunciation_fa_سوم.mp3]"	"<div class='english'>third</div>
+<br>"
+
+"<div class='persian'>خِدمَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>service</div>
+[sound:pronunciation_fa_خدمت.mp3]"	"<div class='english'>service</div>
+<br>"
+
+"<div class='persian'>خَبَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>nouvelle</div>
+[sound:pronunciation_fa_خبر.mp3]"	"<div class='english'>news</div>
+<br>"
+
+"<div class='persian'>اِیرانی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>iranien</div>
+[sound:pronunciation_fa_ایرانی.mp3]"	"<div class='english'>Iranian</div>
+<br>"
+
+"<div class='persian'>کامِل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>complet</div>
+[sound:pronunciation_fa_کامل.mp3]"	"<div class='english'>complete</div>
+<br>"
+
+"<div class='persian'>آزاد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>libre</div>
+[sound:pronunciation_fa_آزاد.mp3]"	"<div class='english'>free</div>
+<br>"
+
+"<div class='persian'>مَنبَع</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>source</div>
+[sound:pronunciation_fa_منبع.mp3]"	"<div class='english'>source</div>
+<br>"
+
+"<div class='persian'>خَط</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ligne</div>
+[sound:pronunciation_fa_خط.mp3]"	"<div class='english'>line</div>
+<br>"
+
+"<div class='persian'>قُدرَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>pouvoir, puissance</div>
+[sound:pronunciation_fa_قدرت.mp3]"	"<div class='english'>power</div>
+<br>"
+
+"<div class='persian'>نِیاز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>besoin</div>
+[sound:pronunciation_fa_نیاز.mp3]"	"<div class='english'>need</div>
+<br>"
+
+"<div class='persian'>مَسئُول</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>responsable</div>
+[sound:pronunciation_fa_مسئول.mp3]"	"<div class='english'>responsible</div>
+<br>"
+
+"<div class='persian'>نَمایَنده</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>représentant, député</div>
+[sound:pronunciation_fa_نماینده.mp3]"	"<div class='english'>representative, MP</div>
+<br>"
+
+"<div class='persian'>ساعَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>heure, temps</div>
+[sound:pronunciation_fa_ساعت.mp3]"	"<div class='english'>hour, time</div>
+<br>"
+
+"<div class='persian'>زَمین</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>terre, sol</div>
+[sound:pronunciation_fa_زمین.mp3]"	"<div class='english'>ground, earth</div>
+<br>"
+
+"<div class='persian'>مِلَّت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>nation</div>
+[sound:pronunciation_fa_ملت.mp3]"	"<div class='english'>nation</div>
+<br>"
+
+"<div class='persian'>میزان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>taux, niveau</div>
+[sound:pronunciation_fa_میزان.mp3]"	"<div class='english'>rate</div>
+<br>"
+
+"<div class='persian'>تَحت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sous</div>
+[sound:pronunciation_fa_تحت.mp3]"	"<div class='english'>under</div>
+<br>"
+
+"<div class='persian'>اِختِیار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>autorité</div>
+[sound:pronunciation_fa_اختیار.mp3]"	"<div class='english'>authority</div>
+<br>"
+
+"<div class='persian'>نُخُست</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>premier</div>
+[sound:pronunciation_fa_نخست.mp3]"	"<div class='english'>first</div>
+<br>"
+
+"<div class='persian'>اِرائه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>présentation</div>
+[sound:pronunciation_fa_ارائه.mp3]"	"<div class='english'>presentation</div>
+<br>"
+
+"<div class='persian'>باعِث</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>cause</div>
+[sound:pronunciation_fa_باعث.mp3]"	"<div class='english'>cause</div>
+<br>"
+
+"<div class='persian'>رُشد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>croissance</div>
+[sound:pronunciation_fa_رشد.mp3]"	"<div class='english'>growth</div>
+<br>"
+
+"<div class='persian'>دُنبال</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>suivre</div>
+[sound:pronunciation_fa_دنبال.mp3]"	"<div class='english'>follow</div>
+<br>"
+
+"<div class='persian'>اِنتِخاب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sélection, choix</div>
+[sound:pronunciation_fa_انتخاب.mp3]"	"<div class='english'>selection, choice</div>
+<br>"
+
+"<div class='persian'>گُفتِگو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>conversation</div>
+[sound:pronunciation_fa_گفتگو.mp3]"	"<div class='english'>conversation</div>
+<br>"
+
+"<div class='persian'>مُوَفَّق</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>réussi</div>
+[sound:pronunciation_fa_موفق.mp3]"	"<div class='english'>successful</div>
+<br>"
+
+"<div class='persian'>روزنامه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>journal</div>
+[sound:pronunciation_fa_روزنامه.mp3]"	"<div class='english'>newspaper</div>
+<br>"
+
+"<div class='persian'>گُذَشتَن ، گُذَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>passer</div>
+[sound:pronunciation_fa_گذشتن.mp3]"	"<div class='english'>to pass</div>
+<br>"
+
+"<div class='persian'>طَی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>pendant, durant</div>
+[sound:pronunciation_fa_طی.mp3]"	"<div class='english'>during</div>
+<br>"
+
+"<div class='persian'>خاطِر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>esprit, pour</div>
+[sound:pronunciation_fa_خاطر.mp3]"	"<div class='english'>mind, sake</div>
+<br>"
+
+"<div class='persian'>سَمت ، سِمَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>côté; position</div>
+[sound:pronunciation_fa_سمت.mp3]"	"<div class='english'>side; position</div>
+<br>"
+
+"<div class='persian'>عامِل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>agent, facteur</div>
+[sound:pronunciation_fa_عامل.mp3]"	"<div class='english'>agent, factor</div>
+<br>"
+
+"<div class='persian'>تاثیر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>impression, effet</div>
+[sound:pronunciation_fa_تاثیر.mp3]"	"<div class='english'>impression, effect</div>
+<br>"
+
+"<div class='persian'>جَنگ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>guerre</div>
+[sound:pronunciation_fa_جنگ.mp3]"	"<div class='english'>war</div>
+<br>"
+
+"<div class='persian'>ساخت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>construction, structure, bâtiment</div>
+[sound:pronunciation_fa_ساخت.mp3]"	"<div class='english'>construction, structure, building</div>
+<br>"
+
+"<div class='persian'>طَریق</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>voie, manière</div>
+[sound:pronunciation_fa_طریق.mp3]"	"<div class='english'>way</div>
+<br>"
+
+"<div class='persian'>کاهِش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>diminution, réduction</div>
+[sound:pronunciation_fa_کاهش.mp3]"	"<div class='english'>decrease</div>
+<br>"
+
+"<div class='persian'>اَخیر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>récent</div>
+[sound:pronunciation_fa_اخیر.mp3]"	"<div class='english'>recent</div>
+<br>"
+
+"<div class='persian'>خارِج</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>extérieur, étranger</div>
+[sound:pronunciation_fa_خارج.mp3]"	"<div class='english'>outside, abroad</div>
+<br>"
+
+"<div class='persian'>هَفته</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>semaine</div>
+[sound:pronunciation_fa_هفته.mp3]"	"<div class='english'>week</div>
+<br>"
+
+"<div class='persian'>آغاز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>début, commencement</div>
+[sound:pronunciation_fa_آغاز.mp3]"	"<div class='english'>beginning</div>
+<br>"
+
+"<div class='persian'>مَرحَله</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>étape, phase</div>
+[sound:pronunciation_fa_مرحله.mp3]"	"<div class='english'>stage</div>
+<br>"
+
+"<div class='persian'>هَمان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ce même, celui-là</div>
+[sound:pronunciation_fa_همان.mp3]"	"<div class='english'>that very</div>
+<br>"
+
+"<div class='persian'>صَنعَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>industrie</div>
+[sound:pronunciation_fa_صنعت.mp3]"	"<div class='english'>industry</div>
+<br>"
+
+"<div class='persian'>تَشکیل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>formation, constitution</div>
+[sound:pronunciation_fa_تشکیل.mp3]"	"<div class='english'>formation</div>
+<br>"
+
+"<div class='persian'>هَمکاری</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>collaboration, coopération</div>
+[sound:pronunciation_fa_همکاری.mp3]"	"<div class='english'>collaboration</div>
+<br>"
+
+"<div class='persian'>اِسلام</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>Islam</div>
+[sound:pronunciation_fa_اسلام.mp3]"	"<div class='english'>Islam</div>
+<br>"
+
+"<div class='persian'>اَفزودَن ، اَفزا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ajouter, augmenter</div>
+[sound:pronunciation_fa_افزودن.mp3]"	"<div class='english'>to add</div>
+<br>"
+
+"<div class='persian'>حَسَن ، حُسن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>Hassan; vertu</div>
+[sound:pronunciation_fa_حسن.mp3]"	"<div class='english'>Hasan; virtue</div>
+<br>"
+
+"<div class='persian'>یافته</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>trouvé, découverte</div>
+[sound:pronunciation_fa_یافته.mp3]"	"<div class='english'>found, finding</div>
+<br>"
+
+"<div class='persian'>خواندَن ، خوان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>lire</div>
+[sound:pronunciation_fa_خواندن.mp3]"	"<div class='english'>to read</div>
+<br>"
+
+"<div class='persian'>غَیر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>autre, non-, in-</div>
+[sound:pronunciation_fa_غیر.mp3]"	"<div class='english'>other, non-, un-</div>
+<br>"
+
+"<div class='persian'>خانواده</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>famille</div>
+[sound:pronunciation_fa_خانواده.mp3]"	"<div class='english'>family</div>
+<br>"
+
+"<div class='persian'>دور</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>période; loin</div>
+[sound:pronunciation_fa_دور.mp3]"	"<div class='english'>period; far</div>
+<br>"
+
+"<div class='persian'>نُقطه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>point</div>
+[sound:pronunciation_fa_نقطه.mp3]"	"<div class='english'>point</div>
+<br>"
+
+"<div class='persian'>بازی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>jeu, partie</div>
+[sound:pronunciation_fa_بازی.mp3]"	"<div class='english'>game, play</div>
+<br>"
+
+"<div class='persian'>تولید</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>production</div>
+[sound:pronunciation_fa_تولید.mp3]"	"<div class='english'>production</div>
+<br>"
+
+"<div class='persian'>بَرگُزار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>tenu, organisé</div>
+[sound:pronunciation_fa_برگزار.mp3]"	"<div class='english'>held</div>
+<br>"
+
+"<div class='persian'>پَیدا کَردَن ، كَن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>trouver, découvrir</div>
+[sound:pronunciation_fa_پیدا_کردن.mp3]"	"<div class='english'>to find</div>
+<br>"
+
+"<div class='persian'>وِزارَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ministère</div>
+[sound:pronunciation_fa_وزارت.mp3]"	"<div class='english'>ministry</div>
+<br>"
+
+"<div class='persian'>دیده</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>œil, vu</div>
+[sound:pronunciation_fa_دیده.mp3]"	"<div class='english'>eye, seen</div>
+<br>"
+
+"<div class='persian'>بَلکه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mais, plutôt</div>
+[sound:pronunciation_fa_بلکه.mp3]"	"<div class='english'>but</div>
+<br>"
+
+"<div class='persian'>اَصل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>principe</div>
+[sound:pronunciation_fa_اصل.mp3]"	"<div class='english'>principle</div>
+<br>"
+
+"<div class='persian'>کُمَک</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>aide</div>
+[sound:pronunciation_fa_کمک.mp3]"	"<div class='english'>help</div>
+<br>"
+
+"<div class='persian'>قابِل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>capable, apte</div>
+[sound:pronunciation_fa_قابل.mp3]"	"<div class='english'>capable</div>
+<br>"
+
+"<div class='persian'>تَوَسُّط</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>par</div>
+[sound:pronunciation_fa_توسط.mp3]"	"<div class='english'>by</div>
+<br>"
+
+"<div class='persian'>زیر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sous, dessous</div>
+[sound:pronunciation_fa_زیر.mp3]"	"<div class='english'>under</div>
+<br>"
+
+"<div class='persian'>مانَند</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>comme, semblable à</div>
+[sound:pronunciation_fa_مانند.mp3]"	"<div class='english'>like</div>
+<br>"
+
+"<div class='persian'>اَکنون</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>maintenant</div>
+[sound:pronunciation_fa_اکنون.mp3]"	"<div class='english'>now</div>
+<br>"
+
+"<div class='persian'>اَهَمِّیَّت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>importance</div>
+[sound:pronunciation_fa_اهمیت.mp3]"	"<div class='english'>importance</div>
+<br>"
+
+"<div class='persian'>اُستان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>province</div>
+[sound:pronunciation_fa_استان.mp3]"	"<div class='english'>province</div>
+<br>"
+
+"<div class='persian'>دِفاع</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>défense</div>
+[sound:pronunciation_fa_دفاع.mp3]"	"<div class='english'>defense</div>
+<br>"
+
+"<div class='persian'>نامه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>lettre</div>
+[sound:pronunciation_fa_نامه.mp3]"	"<div class='english'>letter</div>
+<br>"
+
+"<div class='persian'>اِنسان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>humain, être humain</div>
+[sound:pronunciation_fa_اِنسان.mp3]"	"<div class='english'>human</div>
+<br>"
+
+"<div class='persian'>نِمودَن ، نِما</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>montrer, faire</div>
+[sound:pronunciation_fa_نمودن.mp3]"	"<div class='english'>to show, to do</div>
+<br>"
+
+"<div class='persian'>عُمومی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>public, général</div>
+[sound:pronunciation_fa_عمومی.mp3]"	"<div class='english'>public</div>
+<br>"
+
+"<div class='persian'>جَدّی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sérieux</div>
+[sound:pronunciation_fa_جدی.mp3]"	"<div class='english'>serious</div>
+<br>"
+
+"<div class='persian'>دیدار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>visite, rencontre</div>
+[sound:pronunciation_fa_دیدار.mp3]"	"<div class='english'>visit</div>
+<br>"
+
+"<div class='persian'>سایِر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>autre, reste</div>
+[sound:pronunciation_fa_سایر.mp3]"	"<div class='english'>other</div>
+<br>"
+
+"<div class='persian'>زَدَن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>frapper, parier</div>
+[sound:pronunciation_fa_زدن.mp3]"	"<div class='english'>strike, bet</div>
+<br>"
+
+"<div class='persian'>فُرصَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>opportunité, occasion</div>
+[sound:pronunciation_fa_فرصت.mp3]"	"<div class='english'>opportunity</div>
+<br>"
+
+"<div class='persian'>دانِشگاه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>université</div>
+[sound:pronunciation_fa_دانشگاه.mp3]"	"<div class='english'>university</div>
+<br>"
+
+"<div class='persian'>قَرار دادَن ، دار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mettre, placer</div>
+[sound:pronunciation_fa_قرار_دادن.mp3]"	"<div class='english'>to put, to place</div>
+<br>"
+
+"<div class='persian'>تَأكيد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>emphase, accent</div>
+[sound:pronunciation_fa_تاكيد.mp3]"	"<div class='english'>emphasis</div>
+<br>"
+
+"<div class='persian'>نِوِشتَن ، نِويس</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>écrire</div>
+[sound:pronunciation_fa_نوشتن.mp3]"	"<div class='english'>to write</div>
+<br>"
+
+"<div class='persian'>ساختَن ، ساز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>construire, fabriquer</div>
+[sound:pronunciation_fa_ساختن.mp3]"	"<div class='english'>to build</div>
+<br>"
+
+"<div class='persian'>تَرتیب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ordre, arrangement</div>
+[sound:pronunciation_fa_ترتیب.mp3]"	"<div class='english'>order</div>
+<br>"
+
+"<div class='persian'>فَقَط</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>seulement</div>
+[sound:pronunciation_fa_فقط.mp3]"	"<div class='english'>only</div>
+<br>"
+
+"<div class='persian'>عِلَّت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>raison, cause</div>
+[sound:pronunciation_fa_علت.mp3]"	"<div class='english'>reason</div>
+<br>"
+
+"<div class='persian'>داخِلی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>interne, intérieur</div>
+[sound:pronunciation_fa_داخلی.mp3]"	"<div class='english'>internal</div>
+<br>"
+
+"<div class='persian'>آزادی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>liberté</div>
+[sound:pronunciation_fa_آزادی.mp3]"	"<div class='english'>freedom</div>
+<br>"
+
+"<div class='persian'>وَضعِیَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>situation, état</div>
+[sound:pronunciation_fa_وضعیت.mp3]"	"<div class='english'>situation</div>
+<br>"
+
+"<div class='persian'>آیا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>est-ce que, si</div>
+[sound:pronunciation_fa_آیا.mp3]"	"<div class='english'>whether</div>
+<br>"
+
+"<div class='persian'>جَریان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>courant, flux</div>
+[sound:pronunciation_fa_جریان.mp3]"	"<div class='english'>flow</div>
+<br>"
+
+"<div class='persian'>تَلاش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>effort, tentative</div>
+[sound:pronunciation_fa_تلاش.mp3]"	"<div class='english'>effort</div>
+<br>"
+
+"<div class='persian'>لازِم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>nécessaire</div>
+[sound:pronunciation_fa_لازم.mp3]"	"<div class='english'>necessary</div>
+<br>"
+
+"<div class='persian'>حِمایَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>protection, soutien</div>
+[sound:pronunciation_fa_حمایت.mp3]"	"<div class='english'>protection</div>
+<br>"
+
+"<div class='persian'>چیز</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>chose</div>
+[sound:pronunciation_fa_چیز.mp3]"	"<div class='english'>thing</div>
+<br>"
+
+"<div class='persian'>اِدامه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>continuation, suite</div>
+[sound:pronunciation_fa_ادامه.mp3]"	"<div class='english'>continuation</div>
+<br>"
+
+"<div class='persian'>دُلار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>dollar</div>
+[sound:pronunciation_fa_دلار.mp3]"	"<div class='english'>dollar</div>
+<br>"
+
+"<div class='persian'>قَرار داشتَن ، دار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>être situé</div>
+[sound:pronunciation_fa_قرار_داشتن.mp3]"	"<div class='english'>to be located</div>
+<br>"
+
+"<div class='persian'>تاریخ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>histoire, date</div>
+[sound:pronunciation_fa_تاریخ.mp3]"	"<div class='english'>history</div>
+<br>"
+
+"<div class='persian'>عِلمی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>scientifique</div>
+[sound:pronunciation_fa_علمی.mp3]"	"<div class='english'>scientific</div>
+<br>"
+
+"<div class='persian'>سَطح</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>niveau, surface</div>
+[sound:pronunciation_fa_سطح.mp3]"	"<div class='english'>level</div>
+<br>"
+
+"<div class='persian'>اِجتِماعی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>social</div>
+[sound:pronunciation_fa_اجتماعی.mp3]"	"<div class='english'>social</div>
+<br>"
+
+"<div class='persian'>اِستاد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>professeur</div>
+[sound:pronunciation_fa_استاد.mp3]"	"<div class='english'>professor</div>
+<br>"
+
+"<div class='persian'>اِنتِخابات</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>élections</div>
+[sound:pronunciation_fa_انتخابات.mp3]"	"<div class='english'>elections</div>
+<br>"
+
+"<div class='persian'>مَرکَزی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>central</div>
+[sound:pronunciation_fa_مرکزی.mp3]"	"<div class='english'>central</div>
+<br>"
+
+"<div class='persian'>تَصویر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>image, photo</div>
+[sound:pronunciation_fa_تصویر.mp3]"	"<div class='english'>image</div>
+<br>"
+
+"<div class='persian'>مَطرَح</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>discuté, évoqué</div>
+[sound:pronunciation_fa_مطرح.mp3]"	"<div class='english'>talked about, much discussed</div>
+<br>"
+
+"<div class='persian'>اِنسانی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>humain (adj.)</div>
+[sound:pronunciation_fa_انسانی.mp3]"	"<div class='english'>human (adj.)</div>
+<br>"
+
+"<div class='persian'>خاصّ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>spécifique, particulier</div>
+[sound:pronunciation_fa_خاص.mp3]"	"<div class='english'>specific</div>
+<br>"
+
+"<div class='persian'>مُقابِل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>opposé, contre</div>
+[sound:pronunciation_fa_مقابل.mp3]"	"<div class='english'>opposite, against</div>
+<br>"
+
+"<div class='persian'>سَفَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>voyage</div>
+[sound:pronunciation_fa_سفر.mp3]"	"<div class='english'>travel</div>
+<br>"
+
+"<div class='persian'>مُشَخَّص</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>spécifié, déterminé</div>
+[sound:pronunciation_fa_مشخص.mp3]"	"<div class='english'>specified</div>
+<br>"
+
+"<div class='persian'>فَرهَنگ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>culture</div>
+[sound:pronunciation_fa_فرهنگ.mp3]"	"<div class='english'>culture</div>
+<br>"
+
+"<div class='persian'>اِستِفاده کَردَن ، کَن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>utiliser</div>
+[sound:pronunciation_fa_استفاده_کردن.mp3]"	"<div class='english'>to use</div>
+<br>"
+
+"<div class='persian'>اِنقِلاب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>révolution</div>
+[sound:pronunciation_fa_انقلاب.mp3]"	"<div class='english'>revolution</div>
+<br>"
+
+"<div class='persian'>جَمع</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>total, addition, pluriel</div>
+[sound:pronunciation_fa_جمع.mp3]"	"<div class='english'>total, addition, plural</div>
+<br>"
+
+"<div class='persian'>پیشنَِهاد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>proposition</div>
+[sound:pronunciation_fa_پیشنهاد.mp3]"	"<div class='english'>proposal</div>
+<br>"
+
+"<div class='persian'>مادّه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>femelle, matière</div>
+[sound:pronunciation_fa_ماده.mp3]"	"<div class='english'>female, matter</div>
+<br>"
+
+"<div class='persian'>مَعنا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>signification, sens</div>
+[sound:pronunciation_fa_معنا.mp3]"	"<div class='english'>meaning</div>
+<br>"
+
+"<div class='persian'>كِنار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>bord, à côté de</div>
+[sound:pronunciation_fa_كنار.mp3]"	"<div class='english'>edge, beside</div>
+<br>"
+
+"<div class='persian'>رأی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>vote</div>
+[sound:pronunciation_fa_رأی.mp3]"	"<div class='english'>vote</div>
+<br>"
+
+"<div class='persian'>کُلّی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>total, général</div>
+[sound:pronunciation_fa_کلی.mp3]"	"<div class='english'>total, general</div>
+<br>"
+
+"<div class='persian'>حَقيقَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>vérité</div>
+[sound:pronunciation_fa_حقيقت.mp3]"	"<div class='english'>truth</div>
+<br>"
+
+"<div class='persian'>تأمین</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sécurisation, approvisionnement</div>
+[sound:pronunciation_fa_تأمین.mp3]"	"<div class='english'>securing</div>
+<br>"
+
+"<div class='persian'>خانه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>maison</div>
+[sound:pronunciation_fa_خانه.mp3]"	"<div class='english'>house</div>
+<br>"
+
+"<div class='persian'>جَمعیت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>population</div>
+[sound:pronunciation_fa_جمعیت.mp3]"	"<div class='english'>population</div>
+<br>"
+
+"<div class='persian'>دین</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>religion</div>
+[sound:pronunciation_fa_دین.mp3]"	"<div class='english'>religion</div>
+<br>"
+
+"<div class='persian'>اِمکان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>possibilité</div>
+[sound:pronunciation_fa_امکان.mp3]"	"<div class='english'>possibility</div>
+<br>"
+
+"<div class='persian'>عِلم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>science</div>
+[sound:pronunciation_fa_علم.mp3]"	"<div class='english'>science</div>
+<br>"
+
+"<div class='persian'>اِنتِظار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>attente, expectative</div>
+[sound:pronunciation_fa_انتظار.mp3]"	"<div class='english'>waiting, expectation</div>
+<br>"
+
+"<div class='persian'>کوتاه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>court</div>
+[sound:pronunciation_fa_کوتاه.mp3]"	"<div class='english'>short</div>
+<br>"
+
+"<div class='persian'>بازار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>marché</div>
+[sound:pronunciation_fa_بازار.mp3]"	"<div class='english'>market</div>
+<br>"
+
+"<div class='persian'>کُل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>tout, total</div>
+[sound:pronunciation_fa_کل.mp3]"	"<div class='english'>whole, total</div>
+<br>"
+
+"<div class='persian'>مَیدان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>place, terrain</div>
+[sound:pronunciation_fa_میدان.mp3]"	"<div class='english'>plaza, square, field</div>
+<br>"
+
+"<div class='persian'>فَرهَنگی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>culturel, éducatif</div>
+[sound:pronunciation_fa_فرهنگی.mp3]"	"<div class='english'>cultural, educational</div>
+<br>"
+
+"<div class='persian'>خارَج شُدَن ، شو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sortir, partir</div>
+[sound:pronunciation_fa_خارج_شدن.mp3]"	"<div class='english'>to leave</div>
+<br>"
+
+"<div class='persian'>شِدَّت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>intensité</div>
+[sound:pronunciation_fa_شدت.mp3]"	"<div class='english'>intensity</div>
+<br>"
+
+"<div class='persian'>حُقوق</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>droits, salaire</div>
+[sound:pronunciation_fa_حقوق.mp3]"	"<div class='english'>rights, salary</div>
+<br>"
+
+"<div class='persian'>گُل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>fleur, but; boue</div>
+[sound:pronunciation_fa_گل.mp3]"	"<div class='english'>flower, goal; mud</div>
+<br>"
+
+"<div class='persian'>رَشته</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>domaine, nouilles</div>
+[sound:pronunciation_fa_رشته.mp3]"	"<div class='english'>field, noodle</div>
+<br>"
+
+"<div class='persian'>جَلسه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>réunion</div>
+[sound:pronunciation_fa_جلسه.mp3]"	"<div class='english'>meeting</div>
+<br>"
+
+"<div class='persian'>دُکتُر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>docteur</div>"	"<div class='english'>doctor (no audio)</div>
+<br>"
+
+"<div class='persian'>سؤال</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>question</div>
+[sound:pronunciation_fa_سؤال.mp3]"	"<div class='english'>question</div>
+<br>"
+
+"<div class='persian'>فَضا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>espace</div>
+[sound:pronunciation_fa_فضا.mp3]"	"<div class='english'>space</div>
+<br>"
+
+"<div class='persian'>فیلم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>film</div>
+[sound:pronunciation_fa_فیلم.mp3]"	"<div class='english'>film</div>
+<br>"
+
+"<div class='persian'>مَنظور</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>intention, but</div>
+[sound:pronunciation_fa_منظور.mp3]"	"<div class='english'>intention, purpose</div>
+<br>"
+
+"<div class='persian'>دَفتَر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>bureau</div>
+[sound:pronunciation_fa_دفتر.mp3]"	"<div class='english'>office</div>
+<br>"
+
+"<div class='persian'>تو</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>tu, toi</div>
+[sound:pronunciation_fa_تو.mp3]"	"<div class='english'>you</div>
+<br>"
+
+"<div class='persian'>هَیئَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>conseil, comité</div>
+[sound:pronunciation_fa_هیئت.mp3]"	"<div class='english'>board</div>
+<br>"
+
+"<div class='persian'>زَبان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>langue</div>
+[sound:pronunciation_fa_زبان.mp3]"	"<div class='english'>language, tongue</div>
+<br>"
+
+"<div class='persian'>مُسابِقه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>compétition</div>
+[sound:pronunciation_fa_مسابقه.mp3]"	"<div class='english'>competition</div>
+<br>"
+
+"<div class='persian'>حوزه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>district, domaine</div>
+[sound:pronunciation_fa_حوزه.mp3]"	"<div class='english'>distriction, domain</div>
+<br>"
+
+"<div class='persian'>چِرا</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>pourquoi; pâturage</div>
+[sound:pronunciation_fa_چرا.mp3]"	"<div class='english'>why; grazing</div>
+<br>"
+
+"<div class='persian'>خَیلی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>très</div>
+[sound:pronunciation_fa_خیلی.mp3]"	"<div class='english'>very</div>
+<br>"
+
+"<div class='persian'>دَقیقه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>minute</div>
+[sound:pronunciation_fa_دقیقه.mp3]"	"<div class='english'>minute</div>
+<br>"
+
+"<div class='persian'>فَرانسه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>France</div>
+[sound:pronunciation_fa_فرانسه.mp3]"	"<div class='english'>France</div>
+<br>"
+
+"<div class='persian'>بَیان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>expression</div>
+[sound:pronunciation_fa_بیان.mp3]"	"<div class='english'>expression</div>
+<br>"
+
+"<div class='persian'>واحِد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>unité</div>
+[sound:pronunciation_fa_واحد.mp3]"	"<div class='english'>unit</div>
+<br>"
+
+"<div class='persian'>کاری</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>actif, travaillant</div>
+[sound:pronunciation_fa_کاری.mp3]"	"<div class='english'>active, working</div>
+<br>"
+
+"<div class='persian'>مَرگ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>mort</div>
+[sound:pronunciation_fa_مرگ.mp3]"	"<div class='english'>death</div>
+<br>"
+
+"<div class='persian'>سُخَن</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>discours, parole</div>
+[sound:pronunciation_fa_سخن.mp3]"	"<div class='english'>speech</div>
+<br>"
+
+"<div class='persian'>اِدامه دادَن ، دَه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>continuer</div>
+[sound:pronunciation_fa_ادامه_دادن.mp3]"	"<div class='english'>to continue</div>
+<br>"
+
+"<div class='persian'>زَمانی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>chronologique</div>
+[sound:pronunciation_fa_زمانی.mp3]"	"<div class='english'>chronological</div>
+<br>"
+
+"<div class='persian'>اِرتِباط</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>connexion, contact</div>
+[sound:pronunciation_fa_ارتباط.mp3]"	"<div class='english'>connection, contact</div>
+<br>"
+
+"<div class='persian'>مُوافِق</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>d'accord, favorable</div>
+[sound:pronunciation_fa_موافق.mp3]"	"<div class='english'>agreeable</div>
+<br>"
+
+"<div class='persian'>شَهید</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>martyr</div>
+[sound:pronunciation_fa_شهید.mp3]"	"<div class='english'>martyr</div>
+<br>"
+
+"<div class='persian'>شاهِد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>témoin</div>
+[sound:pronunciation_fa_شاهد.mp3]"	"<div class='english'>witness</div>
+<br>"
+
+"<div class='persian'>ّحَد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>limite</div>
+[sound:pronunciation_fa_حد.mp3]"	"<div class='english'>limit</div>
+<br>"
+
+"<div class='persian'>اُمید</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>espoir</div>
+[sound:pronunciation_fa_امید.mp3]"	"<div class='english'>hope</div>
+<br>"
+
+"<div class='persian'>رَوَش</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>méthode</div>
+[sound:pronunciation_fa_روش.mp3]"	"<div class='english'>method</div>
+<br>"
+
+"<div class='persian'>اَمنِیَّت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>sécurité</div>
+[sound:pronunciation_fa_نفت.mp3]"	"<div class='english'>oil</div>
+<br>"
+
+"<div class='persian'>دَوران</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>période; circulation</div>
+[sound:pronunciation_fa_چاپ.mp3]"	"<div class='english'>print</div>
+<br>"
+
+"<div class='persian'>شَبَکه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>réseau</div>
+[sound:pronunciation_fa_شبکه.mp3]"	"<div class='english'>network</div>
+<br>"
+
+"<div class='persian'>وَقت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>temps</div>
+[sound:pronunciation_fa_وقت.mp3]"	"<div class='english'>time</div>
+<br>"
+
+"<div class='persian'>وَقتی</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>quand</div>
+[sound:pronunciation_fa_وقتی.mp3]"	"<div class='english'>when</div>
+<br>"
+
+"<div class='persian'>حِزب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>parti</div>
+[sound:pronunciation_fa_حزب.mp3]"	"<div class='english'>party</div>
+<br>"
+
+"<div class='persian'>مانِع</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>obstacle</div>
+[sound:pronunciation_fa_مانع.mp3]"	"<div class='english'>obstacle</div>
+<br>"
+
+"<div class='persian'>فَصل</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>saison, chapitre</div>
+[sound:pronunciation_fa_فصل.mp3]"	"<div class='english'>season, chapter</div>
+<br>"
+
+"<div class='persian'>نِشان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>signe</div>
+[sound:pronunciation_fa_نشان.mp3]"	"<div class='english'>sign</div>
+<br>"
+
+"<div class='persian'>مُناسِب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>approprié</div>
+[sound:pronunciation_fa_مناسب.mp3]"	"<div class='english'>appropriate</div>
+<br>"
+
+"<div class='persian'>شَب</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>nuit</div>
+[sound:pronunciation_fa_شب.mp3]"	"<div class='english'>night</div>
+<br>"
+
+"<div class='persian'>رَوَند</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>processus</div>
+[sound:pronunciation_fa_روند.mp3]"	"<div class='english'>process</div>
+<br>"
+
+"<div class='persian'>مَدرِسه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>école</div>
+[sound:pronunciation_fa_مدرسه.mp3]"	"<div class='english'>school</div>
+<br>"
+
+"<div class='persian'>حاکِم</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>dirigeant</div>
+[sound:pronunciation_fa_حاکم.mp3]"	"<div class='english'>ruler</div>
+<br>"
+
+"<div class='persian'>آماده</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>prêt</div>
+[sound:pronunciation_fa_آماده.mp3]"	"<div class='english'>ready</div>
+<br>"
+
+"<div class='persian'>پول</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>argent</div>
+[sound:pronunciation_fa_پول.mp3]"	"<div class='english'>money</div>
+<br>"
+
+"<div class='persian'>پاسُخ</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>réponse</div>
+[sound:pronunciation_fa_پاسخ.mp3]"	"<div class='english'>reply</div>
+<br>"
+
+"<div class='persian'>اِیشان</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ils, elles</div>
+[sound:pronunciation_fa_ایشان.mp3]"	"<div class='english'>they</div>
+<br>"
+
+"<div class='persian'>میلِیارد</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>milliard</div>
+[sound:pronunciation_fa_میلیارد.mp3]"	"<div class='english'>billion</div>
+<br>"
+
+"<div class='persian'>مَسیر</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>route, chemin</div>
+[sound:pronunciation_fa_مسیر.mp3]"	"<div class='english'>route</div>
+<br>"
+
+"<div class='persian'>واقِعِیَت</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>réalité</div>
+[sound:pronunciation_fa_واقعیت.mp3]"	"<div class='english'>reality</div>
+<br>"
+
+"<div class='persian'>مَوجود</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>disponible, créature</div>
+[sound:pronunciation_fa_موجود.mp3]"	"<div class='english'>available, creature</div>
+<br>"
+
+"<div class='persian'>فِشار</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>pression</div>
+[sound:pronunciation_fa_فشار.mp3]"	"<div class='english'>pressure</div>
+<br>"
+
+"<div class='persian'>دَستور</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>ordre, instruction</div>
+[sound:pronunciation_fa_دستور.mp3]"	"<div class='english'>order, instruction</div>
+<br>"
+
+"<div class='persian'>اِصلاح</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>correction</div>
+[sound:pronunciation_fa_اصلاح.mp3]"	"<div class='english'>correction</div>
+<br>"
+
+"<div class='persian'>کوچَک</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>petit</div>
+[sound:pronunciation_fa_کوچک.mp3]"	"<div class='english'>small</div>
+<br>"
+
+"<div class='persian'>حَرف</div>
+[sound:pronunciation_fa_حرف.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>lettre, parole</div>
+<br>"
+
+"<div class='persian'>داستان</div>
+[sound:pronunciation_fa_داستان.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>histoire</div>
+<br>"
+
+"<div class='persian'>خانُم</div>
+[sound:pronunciation_fa_خانم.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>madame, dame</div>
+<br>"
+
+"<div class='persian'>قُربانی</div>
+[sound:pronunciation_fa_قربانی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>victime, sacrifice</div>
+<br>"
+
+"<div class='persian'>مَعدَن</div>
+[sound:pronunciation_fa_معدن.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>mine</div>
+<br>"
+
+"<div class='persian'>مُسافِر</div>
+[sound:pronunciation_fa_مسافر.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>voyageur, passager</div>
+<br>"
+
+"<div class='persian'>قُوّه</div>
+[sound:pronunciation_fa_قوه.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>force, branche</div>
+<br>"
+
+"<div class='persian'>زیبا</div>
+[sound:pronunciation_fa_زیبا.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>beau, belle</div>
+<br>"
+
+"<div class='persian'>مَشغول</div>
+[sound:pronunciation_fa_مشغول.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>occupé</div>
+<br>"
+
+"<div class='persian'>حاصِل</div>
+[sound:pronunciation_fa_حاصل.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>résultat</div>
+<br>"
+
+"<div class='persian'>اِتِّفاق</div>
+[sound:pronunciation_fa_اتفاق.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>événement</div>
+<br>"
+
+"<div class='persian'>اَندازه</div>
+<div class='french' style='color: #2E86C1; margin: 5px 0;'>taille, ampleur</div>
+[sound:pronunciation_fa_اندازه.mp3]"	"<div class='english'>size, extent</div>
+<br>"
+
+"<div class='persian'>ضَعف</div>
+[sound:pronunciation_fa_ضعف.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>faiblesse</div>
+<br>"
+
+"<div class='persian'>اِفتِخار</div>
+[sound:pronunciation_fa_افتخار.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>honneur</div>
+<br>"
+
+"<div class='persian'>آمادَگی</div>
+[sound:pronunciation_fa_آمادگی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>préparation, école maternelle</div>
+<br>"
+
+"<div class='persian'>نامزَد</div>
+[sound:pronunciation_fa_نامزد.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>candidat</div>
+<br>"
+
+"<div class='persian'>ویژِگی</div>
+[sound:pronunciation_fa_ویژگی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>caractéristique</div>
+<br>"
+
+"<div class='persian'>عِبارَت</div>
+[sound:pronunciation_fa_عبارت.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>phrase, expression</div>
+<br>"
+
+"<div class='persian'>اَرزِیابی</div>
+[sound:pronunciation_fa_ارزیابی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>évaluation</div>
+<br>"
+
+"<div class='persian'>تَصَوُّر</div>
+[sound:pronunciation_fa_تصور.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>imagination</div>
+<br>"
+
+"<div class='persian'>شاعِر</div>
+[sound:pronunciation_fa_شاعر.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>poète</div>
+<br>"
+
+"<div class='persian'>اِعتِماد</div>
+[sound:pronunciation_fa_اعتماد.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>confiance</div>
+<br>"
+
+"<div class='persian'>آرامَش</div>
+[sound:pronunciation_fa_آرامش.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>tranquillité</div>
+<br>"
+
+"<div class='persian'>نَفع</div>
+[sound:pronunciation_fa_نفع.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>profit, bénéfice</div>
+<br>"
+
+"<div class='persian'>فَقر</div>
+[sound:pronunciation_fa_فقر.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>pauvreté</div>
+<br>"
+
+"<div class='persian'>هَمکار</div>
+[sound:pronunciation_fa_همکار.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>collègue</div>
+<br>"
+
+"<div class='persian'>اُولَوِیَّت</div>
+[sound:pronunciation_fa_اولویت.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>priorité</div>
+<br>"
+
+"<div class='persian'>مُتَخَصِّص</div>
+[sound:pronunciation_fa_متخصص.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>expert, spécialiste</div>
+<br>"
+
+"<div class='persian'>صَندوق</div>
+[sound:pronunciation_fa_صندوق.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>fonds, boîte</div>
+<br>"
+
+"<div class='persian'>فارسی</div>
+[sound:pronunciation_fa_فارسی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>persan</div>
+<br>"
+
+"<div class='persian'>نَزدیکی</div>
+[sound:pronunciation_fa_نزدیکی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>proximité</div>
+<br>"
+
+"<div class='persian'>رِضایَت</div>
+[sound:pronunciation_fa_رضایت.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>satisfaction</div>
+<br>"
+
+"<div class='persian'>نِگَرانی</div>
+[sound:pronunciation_fa_نگرانی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>anxiété</div>
+<br>"
+
+"<div class='persian'>مُؤَثِّر</div>
+[sound:pronunciation_fa_مؤثر.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>efficace</div>
+<br>"
+
+"<div class='persian'>بَرجَسته</div>
+[sound:pronunciation_fa_برجسته.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>remarquable</div>
+<br>"
+
+"<div class='persian'>قَرن</div>
+[sound:pronunciation_fa_قرن.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>siècle</div>
+<br>"
+
+"<div class='persian'>رِسیدِگی</div>
+[sound:pronunciation_fa_رسیدگی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>enquête</div>
+<br>"
+
+"<div class='persian'>رِيال</div>
+[sound:pronunciation_fa_ریال.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>rial</div>
+<br>"
+
+"<div class='persian'>تَصمیم گِرِفتَن ، گیر</div>
+[sound:pronunciation_fa_تصمیم_گرفتن.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>décider</div>
+<br>"
+
+"<div class='persian'>اَوَّلیه</div>
+[sound:pronunciation_fa_اولیه.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>primaire, original</div>
+<br>"
+
+"<div class='persian'>فَنّی</div>
+[sound:pronunciation_fa_فنی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>technique</div>
+<br>"
+
+"<div class='persian'>خودرو</div>
+[sound:pronunciation_fa_خودرو.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>voiture</div>
+<br>"
+
+"<div class='persian'>عَرض</div>
+[sound:pronunciation_fa_عرض.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>largeur, dire</div>
+<br>"
+
+"<div class='persian'>مِقدار</div>
+[sound:pronunciation_fa_مقدار.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>quantité</div>
+<br>"
+
+"<div class='persian'>عُمده</div>
+[sound:pronunciation_fa_عمده.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>principal</div>
+<br>"
+
+"<div class='persian'>قَول</div>
+[sound:pronunciation_fa_قول.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>promesse, parole</div>
+<br>"
+
+"<div class='persian'>سِپُرده</div>
+[sound:pronunciation_fa_سپرده.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>confié, dépôt</div>
+<br>"
+
+"<div class='persian'>تِجاری</div>
+[sound:pronunciation_fa_تجاری.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>commercial</div>
+<br>"
+
+"<div class='persian'>اِیتالیا</div>
+[sound:pronunciation_fa_ایتالیا.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>Italie</div>
+<br>"
+
+"<div class='persian'>دُرُست</div>
+[sound:pronunciation_fa_درست.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>correct, juste</div>
+<br>"
+
+"<div class='persian'>قَطع</div>
+[sound:pronunciation_fa_قطع.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>couper</div>
+<br>"
+
+"<div class='persian'>مَأمور</div>
+[sound:pronunciation_fa_مأمور.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>agent, officier</div>
+<br>"
+
+"<div class='persian'>اِیالت</div>
+[sound:pronunciation_fa_ایالت.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>état (ex: Arizona)</div>
+<br>"
+
+"<div class='persian'>اَمنِیَّتی</div>
+[sound:pronunciation_fa_فضای_امنیتی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>sécuritaire</div>
+<br>"
+
+"<div class='persian'>شِکَست</div>
+[sound:pronunciation_fa_شکست.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>défaite, échec, casser</div>
+<br>"
+
+"<div class='persian'>تَفاوُت</div>
+[sound:pronunciation_fa_تفاوت.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>différence</div>
+<br>"
+
+"<div class='persian'>هَمایِش</div>
+[sound:pronunciation_fa_همایش.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>conférence</div>
+<br>"
+
+"<div class='persian'>هَفتُم</div>
+[sound:pronunciation_fa_هفتم.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>septième</div>
+<br>"
+
+"<div class='persian'>کِلاس</div>
+[sound:pronunciation_fa_کلاس.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>classe</div>
+<br>"
+
+"<div class='persian'>روشَنی</div>
+[sound:pronunciation_fa_روشنی.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>lumière</div>
+<br>"
+
+"<div class='persian'>وَجه</div>
+[sound:pronunciation_fa_وجه.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>manière</div>
+<br>"
+
+"<div class='persian'>ساختار</div>
+[sound:pronunciation_fa_ساختار.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>structure</div>
+<br>"
+
+"<div class='persian'>تَوافُق</div>
+[sound:pronunciation_fa_توافق.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>accord</div>
+<br>"
+
+"<div class='persian'>کارگَر</div>
+[sound:pronunciation_fa_کارگر.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>ouvrier</div>
+<br>"
+
+"<div class='persian'>قَبلاً</div>
+[sound:pronunciation_fa_قبلاً.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>avant</div>
+<br>"
+
+"<div class='persian'>تَمرین</div>
+[sound:pronunciation_fa_تمرین.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>pratique, exercice</div>
+<br>"
+
+"<div class='persian'>عُمر</div>
+[sound:pronunciation_fa_عمر.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>vie; Omar</div>
+<br>"
+
+"<div class='persian'>دارو</div>
+[sound:pronunciation_fa_دارو.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>médicament</div>
+<br>"
+
+"<div class='persian'>عَقیده</div>
+[sound:pronunciation_fa_عقیده.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>croyance</div>
+<br>"
+
+"<div class='persian'>آهَن</div>
+[sound:pronunciation_fa_آهن.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>fer</div>
+<br>"
+
+"<div class='persian'>کیلومِتر</div>
+[sound:pronunciation_fa_کیلومتر.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>kilomètre</div>
+<br>"
+
+"<div class='persian'>مِحوَر</div>
+[sound:pronunciation_fa_محور.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>axe, dimension</div>
+<br>"
+
+"<div class='persian'>اِرتِقا</div>
+[sound:pronunciation_fa_ارتقا.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>promotion, amélioration</div>
+<br>"
+
+"<div class='persian'>اِستِقبال</div>
+[sound:pronunciation_fa_استقبال.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>accueil</div>
+<br>"
+
+"<div class='persian'>رِضا</div>
+[sound:pronunciation_fa_رضا.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>Reza</div>
+<br>"
+
+"<div class='persian'>تأييد</div>
+[sound:pronunciation_fa_تاييد.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>confirmation</div>
+<br>"
+
+"<div class='persian'>اِیجاد کَردَن ، کَن</div>
+[sound:pronunciation_fa_ایجاد_کردن.mp3]"	"<div class='french' style='color: #2E86C1; margin: 5px 0;'>créer</div>
+<br>"
