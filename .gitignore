@@ -7,6 +7,8 @@ Claude_API_key.txt
 SICP_notes/
 DDIA_notes/
 Samira_Saina_Automation/  
+.config 
+/user.json
 
 # C extensions
 *.so
