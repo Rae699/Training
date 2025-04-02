@@ -1,7 +1,8 @@
 def response(hey_bob: str) -> str:
     """Process input and return Bob's response based on the input pattern.
 
-    Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+    Bob is a lackadaisical teenager. In conversation, his responses are very 
+    limited.
     
     Args:
         hey_bob (str): The input string to process
