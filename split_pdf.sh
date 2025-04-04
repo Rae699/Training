@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE="/Users/tae/Documents/PROGRAMMING/Teach Yourself CS/Books/1. Structure And Interpretation Of Computer Programs.pdf"
+FILE="/Users/tae/Documents/PROGRAMMING/Teach Yourself CS/1. SICP/1. Composing_programs.pdf"
 CHUNK_SIZE=20 #number of pages per pdf
 
 # Extract directory and filename
