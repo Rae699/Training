@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE="/Users/tae/Documents/PROGRAMMING/Teach Yourself CS/1. SICP/1. Composing_programs.pdf"
+FILE='/Users/tae/Downloads/maths/1ere/Notes 1ere.pdf'
 CHUNK_SIZE=20 #number of pages per pdf
 
 # Extract directory and filename
