@@ -2,8 +2,6 @@ from typing import List
 import pytest
 
 def label(colors: List[str]) -> str:
-    if len(colors) != 3:
-        raise ValueError("Exactly three color bands are required")
 
     color_dict = {
         "black": 0,
@@ -56,7 +54,7 @@ def test_label_ohms():
 
 def test_label_kiloohms():
     assert label(['orange', 'orange', 'red']) == "3.3 kiloohms"
-    assert label(['brown', 'black', 'yellow']) == "100 kiloohms"
+    assert label(['blue', 'green', 'yellow']) == "650 kiloohms"
 
 def test_label_megaohms():
     assert label(['green', 'black', 'white']) == "50 megaohms"
